@@ -20,10 +20,10 @@ http://tjtor8411.com:80/010794/FXz1sY/71775.ts
 http://tjtor8411.com:80/010794/FXz1sY/71777.ts
 #EXTINF:-1 tvg-name="Arte 1 FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 FHD [H265]
 http://tjtor8411.com:80/010794/FXz1sY/71778.ts
+#EXTINF:-1,ADULT SWIN HD²
+http://up.kiwi/351921603109/34939156/296629
 #EXTINF:-1 tvg-name="AXN FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN FHD
 http://tjtor8411.com:80/010794/FXz1sY/71781.ts
-#EXTINF:-1 tvg-name="AXN FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/71782.ts
 #EXTINF:-1 tvg-name="AXN FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/axn.png" group-title="Canais | Legendados",AXN FHD [LEG]
 http://tjtor8411.com:80/010794/FXz1sY/90716.ts
 #EXTINF:-1 tvg-name="BIS HD" tvg-logo="http://tjtor8411.com/static/logos/canais/bis.png" group-title="Canais | Variedades",BIS HD
@@ -32,8 +32,6 @@ http://tjtor8411.com:80/010794/FXz1sY/71808.ts
 http://tjtor8411.com:80/010794/FXz1sY/71809.ts
 #EXTINF:-1 tvg-name="Canal Sony FHD" tvg-logo="http://tjtor8411.com/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="Canais | Filmes e Séries",Canal Sony FHD
 http://tjtor8411.com:80/010794/FXz1sY/71824.ts
-#EXTINF:-1 tvg-name="Canal Sony FHD [H265]" tvg-logo="http://tjtor8411.com/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="Canais | Filmes e Séries",Canal Sony FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/71825.ts
 #EXTINF:-1 tvg-name="Canal Sony FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/sony.png" group-title="Canais | Legendados",Canal Sony FHD [LEG]
 http://tjtor8411.com:80/010794/FXz1sY/90713.ts
 #EXTINF:-1 timeshift="7" tvg-name="Canal Sony HD" tvg-logo="http://tjtor8411.com/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="Canais | Filmes e Séries",Canal Sony HD
@@ -48,116 +46,78 @@ http://tjtor8411.com:80/010794/FXz1sY/71829.ts
 http://tjtor8411.com:80/010794/FXz1sY/71831.ts
 #EXTINF:-1 tvg-name="Cartoonito FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/boomerang.png" group-title="Canais | Infantis",Cartoonito FHD
 http://tjtor8411.com:80/010794/FXz1sY/71812.ts
-#EXTINF:-1 tvg-name="Cartoonito FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/boomerang.png" group-title="Canais | Infantis",Cartoonito FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/71813.ts
 #EXTINF:-1 tvg-name="Cartoonito HD" tvg-logo="http://tjtor8411.com/static/logos/canais/boomerang.png" group-title="Canais | Infantis",Cartoonito HD
 http://tjtor8411.com:80/010794/FXz1sY/71814.ts
 #EXTINF:-1 tvg-name="Cinemax FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax FHD
 http://tjtor8411.com:80/010794/FXz1sY/71833.ts
-#EXTINF:-1 tvg-name="Cinemax FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/71834.ts
 #EXTINF:-1 timeshift="7" tvg-name="Cinemax HD" tvg-logo="http://tjtor8411.com/static/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax HD
 http://tjtor8411.com:80/010794/FXz1sY/71835.ts
 #EXTINF:-1 tvg-name="Curta FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/curta.png" group-title="Canais | Documentários",Curta FHD
 http://tjtor8411.com:80/010794/FXz1sY/71855.ts
-#EXTINF:-1 tvg-name="Curta FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/curta.png" group-title="Canais | Documentários",Curta FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/71856.ts
 #EXTINF:-1 tvg-name="Curta HD" tvg-logo="http://tjtor8411.com/static/logos/canais/curta.png" group-title="Canais | Documentários",Curta HD
 http://tjtor8411.com:80/010794/FXz1sY/71857.ts
 #EXTINF:-1 tvg-name="Discovery Channel FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD
 http://tjtor8411.com:80/010794/FXz1sY/71862.ts
-#EXTINF:-1 tvg-name="Discovery Channel FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/71863.ts
 #EXTINF:-1 timeshift="7" tvg-name="Discovery Channel HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD
 http://tjtor8411.com:80/010794/FXz1sY/71865.ts
 #EXTINF:-1 tvg-name="Discovery H&H FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H FHD
 http://tjtor8411.com:80/010794/FXz1sY/71867.ts
-#EXTINF:-1 tvg-name="Discovery H&H FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/71868.ts
 #EXTINF:-1 tvg-name="Discovery H&H HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H HD
 http://tjtor8411.com:80/010794/FXz1sY/71869.ts
 #EXTINF:-1 tvg-name="Discovery Science FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD
 http://tjtor8411.com:80/010794/FXz1sY/71875.ts
-#EXTINF:-1 tvg-name="Discovery Science FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/71876.ts
 #EXTINF:-1 timeshift="7" tvg-name="Discovery Science HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science HD
 http://tjtor8411.com:80/010794/FXz1sY/71877.ts
-#EXTINF:-1 tvg-name="Discovery Theater FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/71880.ts
 #EXTINF:-1 timeshift="7" tvg-name="Discovery Theater HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater HD
 http://tjtor8411.com:80/010794/FXz1sY/71881.ts
 #EXTINF:-1 tvg-name="E! HD" tvg-logo="http://tjtor8411.com/static/logos/canais/e%21.png" group-title="Canais | Variedades",E! HD
 http://tjtor8411.com:80/010794/FXz1sY/71902.ts
 #EXTINF:-1 tvg-name="ESPN 2 FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD
 http://tjtor8411.com:80/010794/FXz1sY/71919.ts
-#EXTINF:-1 tvg-name="ESPN 2 FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/71920.ts
 #EXTINF:-1 timeshift="7" tvg-name="ESPN 2 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 HD
 http://tjtor8411.com:80/010794/FXz1sY/71922.ts
 #EXTINF:-1 tvg-name="ESPN 3 FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 FHD
 http://tjtor8411.com:80/010794/FXz1sY/71907.ts
-#EXTINF:-1 tvg-name="ESPN 3 FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/71908.ts
 #EXTINF:-1 timeshift="7" tvg-name="ESPN 3 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 HD
 http://tjtor8411.com:80/010794/FXz1sY/71909.ts
 #EXTINF:-1 tvg-name="ESPN FHD" tvg-logo="http://tjtor8411.com/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN FHD
 http://tjtor8411.com:80/010794/FXz1sY/71911.ts
-#EXTINF:-1 tvg-name="ESPN FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/71912.ts
 #EXTINF:-1 tvg-name="ESPN HD" tvg-logo="http://tjtor8411.com/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN HD
 http://tjtor8411.com:80/010794/FXz1sY/71913.ts
 #EXTINF:-1 tvg-name="Caze TV FHD" tvg-logo="" group-title="Canais | PPV",Caze TV FHD
-http://tjtor8411.com:80/010794/FXz1sY/76671.ts
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-name="Eurochannel FHD" tvg-logo="http://tjtor8411.com/images/e319732e23a51cafb209d07c7a26c615.jpg" group-title="Canais | Notícias",Eurochannel FHD
 http://tjtor8411.com:80/010794/FXz1sY/104910.ts
-#EXTINF:-1 tvg-name="Eurochannel FHD [H265]" tvg-logo="http://tjtor8411.com/images/e319732e23a51cafb209d07c7a26c615.jpg" group-title="Canais | Notícias",Eurochannel FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/104913.ts
 #EXTINF:-1 tvg-name="FashionTV FHD" tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV FHD
 http://tjtor8411.com:80/010794/FXz1sY/71924.ts
-#EXTINF:-1 tvg-name="FashionTV FHD [H265]" tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/71925.ts
 #EXTINF:-1 tvg-name="Film&Arts FHD" tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts FHD
 http://tjtor8411.com:80/010794/FXz1sY/104914.ts
-#EXTINF:-1 tvg-name="Film&Arts FHD [H265]" tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/104920.ts
 #EXTINF:-1 tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo EPTV Sul de Minas FHD
 http://tjtor8411.com:80/010794/FXz1sY/71979.ts
 #EXTINF:-1 tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo EPTV Sul de Minas HD
 http://tjtor8411.com:80/010794/FXz1sY/71980.ts
 #EXTINF:-1 tvg-name="Gloob FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob FHD
 http://tjtor8411.com:80/010794/FXz1sY/131153.ts
-#EXTINF:-1 tvg-name="Gloob FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/72099.ts
 #EXTINF:-1 tvg-name="Gloob HD" tvg-logo="http://tjtor8411.com/static/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob HD
 http://tjtor8411.com:80/010794/FXz1sY/72100.ts
-#EXTINF:-1 tvg-name="Gloobinho FHD [H265]" tvg-logo="http://acstatic.co/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/90630.ts
 #EXTINF:-1 tvg-name="Gloobinho HD" tvg-logo="http://acstatic.co/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho HD
 http://tjtor8411.com:80/010794/FXz1sY/90629.ts
 #EXTINF:-1 tvg-name="HBO 2 FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD
 http://tjtor8411.com:80/010794/FXz1sY/72110.ts
-#EXTINF:-1 tvg-name="HBO 2 FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/72111.ts
 #EXTINF:-1 tvg-name="HBO 2 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 HD
 http://tjtor8411.com:80/010794/FXz1sY/72112.ts
 #EXTINF:-1 tvg-name="HBO Family FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family FHD
 http://tjtor8411.com:80/010794/FXz1sY/72114.ts
-#EXTINF:-1 tvg-name="HBO Family FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/72115.ts
 #EXTINF:-1 tvg-name="HBO Family HD" tvg-logo="http://tjtor8411.com/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family HD
 http://tjtor8411.com:80/010794/FXz1sY/72116.ts
 #EXTINF:-1 tvg-name="HBO FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO FHD
 http://tjtor8411.com:80/010794/FXz1sY/72118.ts
-#EXTINF:-1 tvg-name="HBO FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/72119.ts
 #EXTINF:-1 tvg-name="HBO FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/hbo.png" group-title="Canais | Legendados",HBO FHD [LEG]
 http://tjtor8411.com:80/010794/FXz1sY/90698.ts
 #EXTINF:-1 timeshift="7" tvg-name="HBO HD" tvg-logo="http://tjtor8411.com/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO HD
 http://tjtor8411.com:80/010794/FXz1sY/72120.ts
 #EXTINF:-1 tvg-name="HBO Mundi FHD" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi FHD
 http://tjtor8411.com:80/010794/FXz1sY/72121.ts
-#EXTINF:-1 tvg-name="HBO Mundi FHD [H265]" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/72122.ts
 #EXTINF:-1 tvg-name="HBO Mundi FHD [LEG]" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | Legendados",HBO Mundi FHD [LEG]
 http://tjtor8411.com:80/010794/FXz1sY/90695.ts
 #EXTINF:-1 tvg-name="HBO Plus FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus FHD
@@ -186,16 +146,12 @@ http://tjtor8411.com:80/010794/FXz1sY/90686.ts
 http://tjtor8411.com:80/010794/FXz1sY/72136.ts
 #EXTINF:-1 tvg-name="HBO Xtreme FHD" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme FHD
 http://tjtor8411.com:80/010794/FXz1sY/72138.ts
-#EXTINF:-1 tvg-name="HBO Xtreme FHD [H265]" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/72139.ts
 #EXTINF:-1 tvg-name="HBO Xtreme FHD [LEG]" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Legendados",HBO Xtreme FHD [LEG]
 http://tjtor8411.com:80/010794/FXz1sY/90683.ts
 #EXTINF:-1 tvg-name="HBO Xtreme HD" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme HD
 http://tjtor8411.com:80/010794/FXz1sY/72140.ts
 #EXTINF:-1 tvg-name="History FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/history.png" group-title="Canais | Documentários",History FHD
 http://tjtor8411.com:80/010794/FXz1sY/72146.ts
-#EXTINF:-1 tvg-name="History FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/history.png" group-title="Canais | Documentários",History FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/72147.ts
 #EXTINF:-1 tvg-name="ID FHD" tvg-logo="http://tjtor8411.com/images/ae050ba13a405e34c4192a0da5376574.png" group-title="Canais | Documentários",ID FHD
 http://tjtor8411.com:80/010794/FXz1sY/72150.ts
 #EXTINF:-1 tvg-name="ID FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/id.png" group-title="Canais | Documentários",ID FHD [H265]
@@ -204,34 +160,24 @@ http://tjtor8411.com:80/010794/FXz1sY/72151.ts
 http://tjtor8411.com:80/010794/FXz1sY/72152.ts
 #EXTINF:-1 tvg-name="Lifetime FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/lifetime.png" group-title="Canais | Variedades",Lifetime FHD
 http://tjtor8411.com:80/010794/FXz1sY/72154.ts
-#EXTINF:-1 tvg-name="Lifetime FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/lifetime.png" group-title="Canais | Variedades",Lifetime FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/72155.ts
 #EXTINF:-1 tvg-name="Lifetime HD" tvg-logo="http://tjtor8411.com/static/logos/canais/lifetime.png" group-title="Canais | Variedades",Lifetime HD
 http://tjtor8411.com:80/010794/FXz1sY/72156.ts
 #EXTINF:-1 tvg-name="Megapix FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD
 http://tjtor8411.com:80/010794/FXz1sY/72166.ts
-#EXTINF:-1 tvg-name="Megapix FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/72167.ts
 #EXTINF:-1 tvg-name="Megapix FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/megapix.png" group-title="Canais | Legendados",Megapix FHD [LEG]
 http://tjtor8411.com:80/010794/FXz1sY/90680.ts
 #EXTINF:-1 timeshift="7" tvg-name="Megapix HD" tvg-logo="http://tjtor8411.com/static/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
 http://tjtor8411.com:80/010794/FXz1sY/72169.ts
 #EXTINF:-1 tvg-name="Modo Viagem FHD" tvg-logo="http://tjtor8411.com/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="Canais | Variedades",Modo Viagem FHD
 http://tjtor8411.com:80/010794/FXz1sY/72162.ts
-#EXTINF:-1 tvg-name="Modo Viagem FHD [H265]" tvg-logo="http://tjtor8411.com/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="Canais | Variedades",Modo Viagem FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/72163.ts
 #EXTINF:-1 tvg-name="Modo Viagem HD" tvg-logo="http://tjtor8411.com/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="Canais | Variedades",Modo Viagem HD
 http://tjtor8411.com:80/010794/FXz1sY/72164.ts
 #EXTINF:-1 tvg-name="Paramount Channel FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD
 http://tjtor8411.com:80/010794/FXz1sY/72217.ts
-#EXTINF:-1 tvg-name="Paramount Channel FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/72218.ts
 #EXTINF:-1 timeshift="7" tvg-name="Paramount Channel HD" tvg-logo="http://tjtor8411.com/static/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel HD
 http://tjtor8411.com:80/010794/FXz1sY/72219.ts
 #EXTINF:-1 tvg-name="Telecine Action FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD
 http://tjtor8411.com:80/010794/FXz1sY/72346.ts
-#EXTINF:-1 tvg-name="Telecine Action FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/72347.ts
 #EXTINF:-1 tvg-name="Telecine Action FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecineaction.png" group-title="Canais | Legendados",Telecine Action FHD [LEG]
 http://tjtor8411.com:80/010794/FXz1sY/90668.ts
 #EXTINF:-1 timeshift="7" tvg-name="Telecine Action HD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD
@@ -240,32 +186,24 @@ http://tjtor8411.com:80/010794/FXz1sY/72348.ts
 http://tjtor8411.com:80/010794/FXz1sY/90667.ts
 #EXTINF:-1 tvg-name="Telecine Cult FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD
 http://tjtor8411.com:80/010794/FXz1sY/72350.ts
-#EXTINF:-1 tvg-name="Telecine Cult FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/72351.ts
 #EXTINF:-1 tvg-name="Telecine Cult FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinecult.png" group-title="Canais | Legendados",Telecine Cult FHD [LEG]
 http://tjtor8411.com:80/010794/FXz1sY/90665.ts
 #EXTINF:-1 timeshift="7" tvg-name="Telecine Cult HD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD
 http://tjtor8411.com:80/010794/FXz1sY/72352.ts
 #EXTINF:-1 tvg-name="Telecine Fun FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD
 http://tjtor8411.com:80/010794/FXz1sY/72354.ts
-#EXTINF:-1 tvg-name="Telecine Fun FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/72355.ts
 #EXTINF:-1 tvg-name="Telecine Fun FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinefun.png" group-title="Canais | Legendados",Telecine Fun FHD [LEG]
 http://tjtor8411.com:80/010794/FXz1sY/90662.ts
 #EXTINF:-1 timeshift="7" tvg-name="Telecine Fun HD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun HD
 http://tjtor8411.com:80/010794/FXz1sY/72356.ts
 #EXTINF:-1 tvg-name="Telecine Pipoca FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD
 http://tjtor8411.com:80/010794/FXz1sY/72358.ts
-#EXTINF:-1 tvg-name="Telecine Pipoca FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/72359.ts
 #EXTINF:-1 tvg-name="Telecine Pipoca FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepipoca.png" group-title="Canais | Legendados",Telecine Pipoca FHD [LEG]
 http://tjtor8411.com:80/010794/FXz1sY/90659.ts
 #EXTINF:-1 timeshift="7" tvg-name="Telecine Pipoca HD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD
 http://tjtor8411.com:80/010794/FXz1sY/72360.ts
 #EXTINF:-1 tvg-name="Telecine Premium FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD
 http://tjtor8411.com:80/010794/FXz1sY/72362.ts
-#EXTINF:-1 tvg-name="Telecine Premium FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/72363.ts
 #EXTINF:-1 tvg-name="Telecine Premium FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepremium.png" group-title="Canais | Legendados",Telecine Premium FHD [LEG]
 http://tjtor8411.com:80/010794/FXz1sY/90656.ts
 #EXTINF:-1 timeshift="7" tvg-name="Telecine Premium HD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD
@@ -274,20 +212,14 @@ http://tjtor8411.com:80/010794/FXz1sY/72364.ts
 http://tjtor8411.com:80/010794/FXz1sY/90655.ts
 #EXTINF:-1 tvg-name="Telecine Touch FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD
 http://tjtor8411.com:80/010794/FXz1sY/72366.ts
-#EXTINF:-1 tvg-name="Telecine Touch FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/72367.ts
 #EXTINF:-1 tvg-name="Telecine Touch FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinetouch.png" group-title="Canais | Legendados",Telecine Touch FHD [LEG]
 http://tjtor8411.com:80/010794/FXz1sY/90653.ts
 #EXTINF:-1 timeshift="7" tvg-name="Telecine Touch HD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD
 http://tjtor8411.com:80/010794/FXz1sY/72368.ts
 #EXTINF:-1 tvg-name="TNT FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD
 http://tjtor8411.com:80/010794/FXz1sY/72375.ts
-#EXTINF:-1 tvg-name="TNT FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/72376.ts
 #EXTINF:-1 tvg-name="Modo Viagem FHD" tvg-logo="http://tjtor8411.com/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="Canais | Variedades",Modo Viagem FHD
 http://tjtor8411.com:80/010794/FXz1sY/72162.ts
-#EXTINF:-1 tvg-name="Modo Viagem FHD [H265]" tvg-logo="http://tjtor8411.com/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="Canais | Variedades",Modo Viagem FHD [H265]
-http://tjtor8411.com:80/010794/FXz1sY/72163.ts
 #EXTINF:-1 tvg-name="Modo Viagem HD" tvg-logo="http://tjtor8411.com/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="Canais | Variedades",Modo Viagem HD
 http://tjtor8411.com:80/010794/FXz1sY/72164.ts
 #EXTINF:-1 tvg-name="Multishow FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/multishow.png" group-title="Canais | Variedades",Multishow FHD
@@ -355,3 +287,1265 @@ http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646911.mp4
 http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646912.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A 5a Onda" tvg-logo="http://gstaticontent.com/images/asPv5M6bUn270EcUXUnEnC8CkB7_big.jpg" group-title="Filmes | Fantasia",A 5a Onda
 http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/647058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devoradores de Estrelas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bOzG3SG6gBxHGGHYiq7xXeNb1bG.jpg" group-title="Filmes | Lancamentos",Devoradores de Estrelas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/915076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paixão de Escritório" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kN86jEhf5xeHTPwlVeZ1ZAW861r.jpg" group-title="Filmes | Lancamentos",Paixão de Escritório
+#EXTINF:-1 tvg-id="" tvg-name="Dia D" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pmff1wjKrgJi92PPr346lAifzlg.jpg" group-title="Filmes | Lancamentos",Dia D
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/922235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Backrooms: Um Não-Lugar" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/qEl4BDBTGnhLiadZx0c9nHM8vBF.jpg" group-title="Filmes | Lancamentos",Backrooms: Um Não-Lugar
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/922262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Obsessão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yhtt7IdzjJ6Vwh1AcG54QFYPtwf.jpg" group-title="Filmes | Lancamentos",Obsessão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/920918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Retrato de uma Jovem em Chamas [L]" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/c3OkDxs7PQuLB12qiwZUDg7ZMO6.jpg" group-title="Filmes | Legendados",Retrato de uma Jovem em Chamas [L]
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/670634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte de Jesus: Uma Investigação Médica" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tvp0pN9T9my1hCGyhech62gOrvx.jpg" group-title="Documentarios",A Morte de Jesus: Uma Investigação Médica
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Libelu: Abaixo a Ditadura" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8kpNREpNqvbG0QHLWklUCCuYscD.jpg" group-title="Documentarios",Libelu: Abaixo a Ditadura
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diddy: Como Nasce Um Bad Boy" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/qBjBdxi1wiOhuN4UabLs9AnL4Q6.jpg" group-title="Documentarios",Diddy: Como Nasce Um Bad Boy
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jesus: Seguindo os Passos do Messias" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3IG2rfFaxZ3vWFzQ6ngaAnzHq6P.jpg" group-title="Documentarios",Jesus: Seguindo os Passos do Messias
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chile 8.8" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ds7sey2oo8PszQFfPA27nfrZ2D4.jpg" group-title="Documentarios",Chile 8.8
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Céu Não Pode Esperar" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/g0UhzvACMrwRUndO8WMYmwD7j1D.jpg" group-title="Documentarios",O Céu Não Pode Esperar
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mamãe Golpista" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iA5ZHflyzsxmR09Ce53w9Ng0tIx.jpg" group-title="Documentarios",Mamãe Golpista
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Profecias Reveladas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dwOvzaH6fDI7yYF05q4nP3NLjI1.jpg" group-title="Documentarios",Profecias Reveladas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Óvnis dos Álamos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nLRBZuO4tlcMbRMUNEHxPuqLyDT.jpg" group-title="Documentarios",Os Óvnis dos Álamos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vizinhança do Tigre" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hGi4HyIyLlfZCQgGSclbjfQnLot.jpg" group-title="Documentarios",A Vizinhança do Tigre
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lutar, Lutar, Lutar" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mSqDWnzKPq7hHOlcBWp6LRkGAj2.jpg" group-title="Documentarios",Lutar, Lutar, Lutar
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="11/9:  Ataque ao Pentágono" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/cyOPVUkRJ4tOY7LFUn49qH3ol8A.jpg" group-title="Documentarios",11/9:  Ataque ao Pentágono
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gente" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tGDnBdmJQEtXbVZ0EWmhCM5BTxD.jpg" group-title="Documentarios",A Gente
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Larissa: O Outro Lado de Anitta" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/e1znkPMVSZv44DfRMeTrQ6G6Da2.jpg" group-title="Documentarios",Larissa: O Outro Lado de Anitta
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Serva" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mrzxl9eBtPcD9m4pk5U81xL4RSc.jpg" group-title="Documentarios",A Serva
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miss Itália Não Pode Morrer" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/b9B3D8pMyBaFsOn9D7YTyhpnU7y.jpg" group-title="Documentarios",Miss Itália Não Pode Morrer
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brasil Azul" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jhqCxdztL9fDhETUJdWuBG4d2VL.jpg" group-title="Documentarios",Brasil Azul
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Passinho Foda - O Corre Por Trás da Dança" tvg-logo="https://i.bj-share.info/16840bc4ad1e7289e2bdfc27ed4ca7cc.jpg" group-title="Documentarios",Passinho Foda - O Corre Por Trás da Dança
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="John McAfee: Gênio, Polêmico e Fugitivo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/uTqjzvCJSPjpuRRsTy5GNqkI6zN.jpg" group-title="Documentarios",John McAfee: Gênio, Polêmico e Fugitivo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luigi Mangione: O Assassino do CEO" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hhndjUdo9wblPlcu1pjwu6rrCjH.jpg" group-title="Documentarios",Luigi Mangione: O Assassino do CEO
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aventuras no Fundo do Mar" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nZp3wSY9VaDYAFjFuKPyThVy8Xa.jpg" group-title="Documentarios",Aventuras no Fundo do Mar
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino da Internet: A História de Aaron Swartz" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/72rf6z3E8gpbdXbAdIy7uWYdo8Z.jpg" group-title="Documentarios",O Menino da Internet: A História de Aaron Swartz
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Glória Por Eles" tvg-logo="https://i.bj-share.info/ff934a252cbf8a1e928f31f3fe5af79f.jpg" group-title="Documentarios",A Glória Por Eles
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grand Canyon ao Extremo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/9r6xO7Q1y29ljzxsJnVexDmgKAo.jpg" group-title="Documentarios",Grand Canyon ao Extremo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chichén Itzá: A Lenda da Caverna" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/xJKchsih91c8hDtJcYXEGQctupv.jpg" group-title="Documentarios",Chichén Itzá: A Lenda da Caverna
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atlântida: Os Segredos da Cidade Perdida" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/myc6yvSu98m9vtjNXRVNOnw2vlx.jpg" group-title="Documentarios",Atlântida: Os Segredos da Cidade Perdida
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Twin Peaks: Os Últimos Dias de Laura Palmer" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/69GrIEaBRM4YxdTfr1mazm9yUDE.jpg" group-title="Documentarios",Twin Peaks: Os Últimos Dias de Laura Palmer
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Cat Returns - Making of" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iWuacy2b0Cn4GPGEwLpbwl9rl7S.jpg" group-title="Documentarios",The Cat Returns - Making of
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resistentes" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/szoh48L6pmxEPKeV7IznCkglS5k.jpg" group-title="Documentarios",Resistentes
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Expedição no Everest" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gZMfHhM2SmQlUtcaVkckO35bPvi.jpg" group-title="Documentarios",Expedição no Everest
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/E0KTAa4Roq750YFrN5KjYtTWhZ.jpg" group-title="Documentarios",Chão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MTV Video Music Awards" tvg-logo="https://www.acstatic.co/vod/capinha/mtvvma.jpg" group-title="Documentarios",MTV Video Music Awards
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Torre das Donzelas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kHOjWsFqnkHpBRg48E05VEqnLLd.jpg" group-title="Documentarios",Torre das Donzelas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Kids' Choice Awards" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/k614wdsqbfIUbc3M6glfkO4SJa3.jpg" group-title="Documentarios",Nickelodeon Kids' Choice Awards
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MTV Europe Music Awards" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/r9a2io8bitn1s8Hwe7C1ArQlawH.jpg" group-title="Documentarios",MTV Europe Music Awards
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Retrospectiva Band (2022)" tvg-logo="https://i.bj-share.info/ceefebd829f0f8543d943dc62e8b1f7e.jpg" group-title="Documentarios",Retrospectiva Band (2022)
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Retrospectiva Record (2022)" tvg-logo="http://gstaticontent.com/images/f58426588ef4e0940af71aeef5b9f584.png" group-title="Documentarios",Retrospectiva Record (2022)
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Spirit: O Filme" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/uyraGyNmmKu84UCVuIZ8u8fiZpS.jpg" group-title="Filmes | Suspense",The Spirit: O Filme
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Super 8" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mUTvk7qmjOiOjuLw6du2xitee7V.jpg" group-title="Filmes | Suspense",Super 8
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix: A Última Cartada" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tkppRmx4iBvAeKlopfNTO8hnKxK.jpg" group-title="Filmes | Suspense",Phoenix: A Última Cartada
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gangue de Paris" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ttmO5HG61wHghCuBujBHQbvTAQd.jpg" group-title="Filmes | Suspense",A Gangue de Paris
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Domésticos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/h6OReqEC3AQEG4LaWtLH6PIQ2aB.jpg" group-title="Filmes | Suspense",Os Domésticos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Departamento Q - Guardiões das Causas Perdidas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wSEFQ6iCj626xjItq4DSPVr5MKC.jpg" group-title="Filmes | Suspense",Departamento Q - Guardiões das Causas Perdidas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paranóia" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8u3mcV0IT95avuGkjPGU1riYUDx.jpg" group-title="Filmes | Suspense",Paranóia
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Holland" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iN5Ay7qbKwky8Zv3yKV3QpkbZfV.jpg" group-title="Filmes | Suspense",Holland
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Homem Perfeito" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/eLqoAoUOXgkEVqR1ji37Aew04Hy.jpg" group-title="Filmes | Romance",Um Homem Perfeito
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Novo Sonho de Uma Noite de Verão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/xDAfKYF7YRHLPXiUEirqXnmpm1Q.jpg" group-title="Filmes | Romance",Um Novo Sonho de Uma Noite de Verão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Khumalo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/moYXQwN4Snyv6cpvA3FChPOJGXc.jpg" group-title="Filmes | Romance",A Família Khumalo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dZxN0OcvbDxzNW01F0d9CW7L8xN.jpg" group-title="Filmes | Romance",Baby
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Podres de Ricos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kYqS2lRNNAhSHpTWGMCHfBlzjTz.jpg" group-title="Filmes | Romance",Podres de Ricos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Para Sempre Cinderela" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sK7IbUdqoM51ceSfvwL4CIXbxKh.jpg" group-title="Filmes | Romance",Para Sempre Cinderela
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Corpo e Alma" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mmvyURT2GXOHZ1QwQ2vkpZrGUjN.jpg" group-title="Filmes | Romance",De Corpo e Alma
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lista da Minha Vida" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2zrVB7SQe9UZNRABpca66lObH0n.jpg" group-title="Filmes | Romance",A Lista da Minha Vida
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se Fosse Amor" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bBTBT3uvuqmYPmFruNkkcawsSH8.jpg" group-title="Filmes | Romance",Se Fosse Amor
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conhecendo o Sr. Natal" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gpdksPQN8Zt6GSQtHS5Mp3GjQhJ.jpg" group-title="Filmes | Romance",Conhecendo o Sr. Natal
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Culpa: Londres" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/grM1am6mYzxA84xDzTk23FQU7dG.jpg" group-title="Filmes | Romance",Minha Culpa: Londres
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçadora de Gigantes" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1llJ6a7P4JShSqJtNGnmY8J6YC8.jpg" group-title="Filmes | Fantasia",Caçadora de Gigantes
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Addams" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sFwaszCIbVXGnsJG6dg6WUY7d6P.jpg" group-title="Filmes | Fantasia",A Família Addams
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Z-O-M-B-I-E-S 2" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dFNhlaPEeDhimwZ0eenpwe1x5Tm.jpg" group-title="Filmes | Fantasia",Z-O-M-B-I-E-S 2
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Z-O-M-B-I-E-S" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/snGVInrnUBK6LrfLZkOdbj5PpJo.jpg" group-title="Filmes | Fantasia",Z-O-M-B-I-E-S
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Descendentes 3" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/moyDQs4U4D4b0kG7vfqt8DKskkI.jpg" group-title="Filmes | Fantasia",Descendentes 3
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malévola: Dona do Mal" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2VlGbVShN1qQx6WbshMA4Ex04qJ.jpg" group-title="Filmes | Fantasia",Malévola: Dona do Mal
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinderela" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4DsfRsCxrhkHQHGLeY9m8oi9q46.jpg" group-title="Filmes | Fantasia",Cinderela
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8PwVXsbRttRxk4pVBdgqnzPXQG1.jpg" group-title="Filmes | Fantasia",Doutor Estranho
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Paddington 2" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bVAplALQBfKNRrAdOWol6T49Yw6.jpg" group-title="Filmes | Fantasia",As Aventuras de Paddington 2
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Férias Assustadoras de Nelly Rapp" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gH1b9vtGinOOt3mOoUTPhkEsrgJ.jpg" group-title="Filmes | Fantasia",As Férias Assustadoras de Nelly Rapp
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chapeuzinho Vermelho - Herança de Família" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/zxDqtu6kP1uEZAQ1a5rfcfB6k2a.jpg" group-title="Filmes | Fantasia",Chapeuzinho Vermelho - Herança de Família
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Coroa e o Dragão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/h6SF7r9z7hbWTJW1GM0VRUIvwUn.jpg" group-title="Filmes | Fantasia",A Coroa e o Dragão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Fantasmas Contra-Atacam" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pbFQ2Dyw1OgxYQ3A4zK9azIk37P.jpg" group-title="Filmes | Fantasia",Os Fantasmas Contra-Atacam
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Princesa Mononoke" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7EadOwHmyQgOnlghRiWBygNtnjl.jpg" group-title="Filmes | Fantasia",Princesa Mononoke
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cristal Encantado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4XvmHnJdjcvd2OYBqylEQs2q6IY.jpg" group-title="Filmes | Fantasia",O Cristal Encantado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo dos Pequeninos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yovlgDFP53N7IW7O4irM6INBxmp.jpg" group-title="Filmes | Fantasia",O Mundo dos Pequeninos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Príncipe" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4utMOX0GJJqUjJphLSsDlOr89zT.jpg" group-title="Filmes | Fantasia",O Pequeno Príncipe
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Chave Mágica" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/eKIK4I3Kiocb8e2SG0McmPIf4bo.jpg" group-title="Filmes | Fantasia",A Chave Mágica
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sparkle: Um Conto Mágico" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/cS1XzPqKJqgVBp78Ijth3SEtVwX.jpg" group-title="Filmes | Fantasia",Sparkle: Um Conto Mágico
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo de Mercator" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/S7F1B9HyltgbxAVPtErmRx8zmq.jpg" group-title="Filmes | Aventura",O Segredo de Mercator
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tieta do Agreste" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/w1b8H5UZy7k6igDxxPwp03rs08C.jpg" group-title="Filmes | Nacionais",Tieta do Agreste
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tim Maia" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kVE2wZU3Xd4yQDKSOwIrLhGGoB3.jpg" group-title="Filmes | Nacionais",Tim Maia
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Ainda Tem Problemas Sexuais" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/weYWKWVJVAfGBt00ZXKfJex4w4.jpg" group-title="Filmes | Nacionais",Todo Mundo Ainda Tem Problemas Sexuais
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mensageiro" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bSaGE8IlQUdgO33i9lzot4T1xjA.jpg" group-title="Filmes | Nacionais",O Mensageiro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apenas o Fim" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1OfIcYcLYjGxRXjbgMcS47NKhZP.jpg" group-title="Filmes | Nacionais",Apenas o Fim
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vai Que Dá Certo 2" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tiv6OTMgz3nhXkdg3cVe83VLhuW.jpg" group-title="Filmes | Nacionais",Vai Que Dá Certo 2
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vidro Fumê" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hmH70bPOD7SbEuUQo6my27mvR4h.jpg" group-title="Filmes | Nacionais",Vidro Fumê
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Profissional" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/qgco9a59jPKOzwNN99s2mUYRgig.jpg" group-title="Filmes | Crime",O Profissional
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Contador" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/br5SjDttw1AwAiTfneWxZBBaqjC.jpg" group-title="Filmes | Crime",O Contador
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Confidencial" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1FGjjtpjyUU1KGWE3SfT8hQJ2Jk.jpg" group-title="Filmes | Crime",Confidencial
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Justiça Brutal" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fbZi8jRG0tZTdXx3GH6CZthkFzc.jpg" group-title="Filmes | Crime",Justiça Brutal
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Beco do Pesadelo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nndZUt9Lf8ZwefYBTGe5opGLJuY.jpg" group-title="Filmes | Crime",O Beco do Pesadelo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Despertar de um Pesadelo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iPOXTAUguRqlRXJYBMWWVZGLBe3.jpg" group-title="Filmes | Crime",Despertar de um Pesadelo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjo da Morte" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/14sZ1J3bPbSJpjjd9TJ5W5rEmz4.jpg" group-title="Filmes | Crime",Anjo da Morte
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inferno no Bronx" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/w6fpOWwPPXYR6xUg6dUnIWED1ao.jpg" group-title="Filmes | Crime",Inferno no Bronx
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Memória de um Crime" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ht1TuxKV4fMlHdPetWaQdgwiMwT.jpg" group-title="Filmes | Crime",Memória de um Crime
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Fim da Lealdade" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sy1r4ABRjNrk6Xsp2hPnfhDPM7.jpg" group-title="Filmes | Crime",O Fim da Lealdade
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Agiota" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sdbAoj5akfFHj7dTDOpUIrTcHT1.jpg" group-title="Filmes | Crime",O Agiota
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depravação" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/n19vWwaN3NgxazMbxxNYn5h30EE.jpg" group-title="Filmes | Crime",Depravação
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loteria Fatal" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aoG0wtN9zRARplPgEfzzu0A8JFE.jpg" group-title="Filmes | Crime",Loteria Fatal
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Santosh Vozes da Hierarquia" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/t9Rd5Gw9e9FqHdX2Si5ZnEusdoa.jpg" group-title="Filmes | Crime",Santosh Vozes da Hierarquia
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Squad 36" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/56hPHYFZMafbPw6ORxrUWG7Qxad.jpg" group-title="Filmes | Crime",Squad 36
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pastoral Americana" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nK2lA3LPPqkuetlMTqYZJ8P2fb3.jpg" group-title="Filmes | Crime",Pastoral Americana
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dublê de Corpo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hGB9Up4weNkpi2HzTqA9VjvJRzA.jpg" group-title="Filmes | Crime",Dublê de Corpo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dominada Pelo Medo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/96TKKCpeYT4q8ib8OHV0IOrxuFO.jpg" group-title="Filmes | Crime",Dominada Pelo Medo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Nova Geração da Máfia" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rJpEkFxKSYY2SUwNZITrNP4CYmo.jpg" group-title="Filmes | Crime",A Nova Geração da Máfia
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Gângster" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gXHWwa2EUCE9BKrdzwyOiWxuufh.jpg" group-title="Filmes | Crime",O Gângster
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçada em Atlanta" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yproyN8LIvCHU5sdRsvDkzjGzfl.jpg" group-title="Filmes | Crime",Caçada em Atlanta
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ordem" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/r6ldDGMzdWErm3auCuKSmsXL125.jpg" group-title="Filmes | Crime",A Ordem
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Criança Por Testemunha" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mtl43J82BOX49DKsplg4KPRkbn8.jpg" group-title="Filmes | Crime",Uma Criança Por Testemunha
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Segredos da Cosa Nostra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/6c5Nz4FX2VNdiDsj8iip0aNGW6I.jpg" group-title="Filmes | Crime",Os Segredos da Cosa Nostra
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Instinto Selvagem 2" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/6jFs6wuMRKfR0jdfsA4lyLTCdmI.jpg" group-title="Filmes | Crime",Instinto Selvagem 2
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Falcões da Noite" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vIkcfN2UY1CLRKORn4O8KwZ942V.jpg" group-title="Filmes | Crime",Falcões da Noite
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Sombra e Silêncio" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dOuPJKkK6ks5V435jgrANVD0OyO.jpg" group-title="Filmes | Crime",De Sombra e Silêncio
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Confissão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/qlEiLLjRsZdW6txwBV9Mlf7cy1r.jpg" group-title="Filmes | Crime",A Confissão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cabo do Medo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/AfUtnysJQGFH5mZsoQNjle9Nibg.jpg" group-title="Filmes | Crime",Cabo do Medo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingança Acima da Lei" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ymZ3MewWInM78zSIwW9l1m4M5cQ.jpg" group-title="Filmes | Acao",Vingança Acima da Lei
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Último Alvo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/c4T5Mgq6uYK39cjInttIRgTdotq.jpg" group-title="Filmes | Acao",Último Alvo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reféns na Ponte" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/cehRo1Z46ZicdMmt2TGHORg4GqH.jpg" group-title="Filmes | Acao",Reféns na Ponte
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Esperança da Terra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4dz0hS7tk7D0uDha9ELuvqnwlKU.jpg" group-title="Filmes | Acao",A Última Esperança da Terra
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Sem Sombra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vrDwv0pphH1cw0vXBDkCYglhRNr.jpg" group-title="Filmes | Acao",O Homem Sem Sombra
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Redes do Crime" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iDeg2vep7FnzADpf1J5SNgUWUpb.jpg" group-title="Filmes | Acao",Redes do Crime
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lutador" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aoxmISj7jjnBgaQusUr13sSqRay.jpg" group-title="Filmes | Acao",O Lutador
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Terno de 2 Bilhões de Dólares" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/zcadZ67yI62RedbT86iEcS6cxYU.jpg" group-title="Filmes | Acao",O Terno de 2 Bilhões de Dólares
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Guerreiro Silencioso" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8TICiaQrtSdfdNTk6gcI7mq688s.jpg" group-title="Filmes | Acao",O Guerreiro Silencioso
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Creed: Nascido para Lutar" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/53VTzu0nhbNYmIbqdDbFqobsLHt.jpg" group-title="Filmes | Acao",Creed: Nascido para Lutar
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Creed II" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4eVe0XEmkxNPNzLWNw7D7f0Q6pt.jpg" group-title="Filmes | Acao",Creed II
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Novocaine: À Prova de Dor" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/knIEw2jWOxrb6ugNPEoaiYI6p77.jpg" group-title="Filmes | Acao",Novocaine: À Prova de Dor
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="G20" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tSee9gbGLfqwvjoWoCQgRZ4Sfky.jpg" group-title="Filmes | Acao",G20
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo de Mia: A Esperança de Centopia" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/czkzXAtaJ09DNvmSGjsIndrXZqa.jpg" group-title="Filmes | Animacao",O Mundo de Mia: A Esperança de Centopia
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Attack on Titan: O Último Ataque" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rSeFqgr6RibIxonuTHUeaj44shq.jpg" group-title="Filmes | Animacao",Attack on Titan: O Último Ataque
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Parque dos Sonhos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sxybUNiRTGSCkOOWtOf3kDse43v.jpg" group-title="Filmes | Animacao",O Parque dos Sonhos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hotel Transilvânia" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/i9kAWShk7qrqril2dLboP0hi8I2.jpg" group-title="Filmes | Animacao",Hotel Transilvânia
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hotel Transilvânia: Transformonstrão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/9PbtCo5IIkd26WPQfZUpPyn6fTz.jpg" group-title="Filmes | Animacao",Hotel Transilvânia: Transformonstrão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aviões" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4KrnsveRY7O6YR2X0j1vGrEksIZ.jpg" group-title="Filmes | Animacao",Aviões
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ParaNorman" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg" group-title="Filmes | Animacao",ParaNorman
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Watchmen: Capítulo 2" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rvSEowY2XE0Gb06FBEwQng2M6KX.jpg" group-title="Filmes | Animacao",Watchmen: Capítulo 2
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Watchmen: Capítulo 1" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/x50RGRXzl2Ohib9t6aL6by4m4LW.jpg" group-title="Filmes | Animacao",Watchmen: Capítulo 1
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pororo - Aventuras no Castelo do Dragão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/thtzHB72hdrsrKSm5kYVr3MMEM3.jpg" group-title="Filmes | Animacao",Pororo - Aventuras no Castelo do Dragão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem-Cão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iBZlbYSVOYjBJDwg4D3bcK0hE8F.jpg" group-title="Filmes | Animacao",O Homem-Cão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High School Band" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/164a9H7TKMtVYjA4g9uA3CcdZbJ.jpg" group-title="Filmes | Comedia",High School Band
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cães de Guerra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/39Wqg43QEm1DYptJoZPCK1R7OWJ.jpg" group-title="Filmes | Comedia",Cães de Guerra
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Procurando Encrenca" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2jN2Siz1NisrarFh8Ac49CJYJzE.jpg" group-title="Filmes | Comedia",Procurando Encrenca
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Mágico Burt Wonderstone" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/s9YtHivf0wdl8UgifsgecuV7oPZ.jpg" group-title="Filmes | Comedia",O Incrível Mágico Burt Wonderstone
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superboys de Malegaon" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nDaLjZwdQeiN6rF35oDkqor28u3.jpg" group-title="Filmes | Comedia",Superboys de Malegaon
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Melhor do Mundo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/qED1q18l2rM5eBbJsmnc4JakN5b.jpg" group-title="Filmes | Comedia",O Melhor do Mundo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gananciosos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/uPBFus1jv5s7klf2X2B6pTZRpTq.jpg" group-title="Filmes | Comedia",Gananciosos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frozen Hot Boys" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3ScTCGjCuGyN3PcnasJ5ji7OmaU.jpg" group-title="Filmes | Comedia",Frozen Hot Boys
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Filhos da Violência" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iEBdm4VYxdr5gUBG3oQRVTFuJj7.jpg" group-title="Filmes | Crime",Filhos da Violência
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="iHostage" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3GImCX4yfciJxyWkJaZDqQ6HGBY.jpg" group-title="Filmes | Crime",iHostage
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Macbeth - Vozes do Harlem" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/uzLXIUEDjGnskxTsKvxZtwzjYjT.jpg" group-title="Filmes | Drama",Macbeth - Vozes do Harlem
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Barbárie" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hIpVLbts9QKGkRJreMtVegq9akh.jpg" group-title="Filmes | Drama",A Barbárie
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perfeição" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2ekPdx7G2Wl59gbub2C02TXNOgV.jpg" group-title="Filmes | Drama",Perfeição
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Questão de Honra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/cPSZgOjUA8WJoFw3K6KX0qiZYdJ.jpg" group-title="Filmes | Drama",Questão de Honra
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora e a Vez de Augusto Matraga" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/npIUAMYGhCEGrlkqOKou8edrLip.jpg" group-title="Filmes | Drama",A Hora e a Vez de Augusto Matraga
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Possessão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/9MU8EHYeb2h14yvHlJAcruH5mZp.jpg" group-title="Filmes | Drama",Possessão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cicatrizes da Guerra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mDHecokikJjybKjaZ0unCJC69BP.jpg" group-title="Filmes | Drama",Cicatrizes da Guerra
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Concepção" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/w3TZ8wsQWSduU9EZClS2LwwPsMK.jpg" group-title="Filmes | Drama",A Concepção
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida é um Banquete" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/FFnv9yEIKCVm6139aYPvEIy7eA.jpg" group-title="Filmes | Drama",A Vida é um Banquete
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Quarto ao Lado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/xkR30rpo6Fl0jBZ6QKGR0GUARnK.jpg" group-title="Filmes | Drama",O Quarto ao Lado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Amigas: De Volta ao Passado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kYcNLakH38pkA8SpwBtM6XFSAUA.jpg" group-title="Filmes | Drama",Entre Amigas: De Volta ao Passado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Ganhar Milhões Antes Que a Avó Morra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5CQXxYfjDmxS4aQJP7U2J5shoMI.jpg" group-title="Filmes | Drama",Como Ganhar Milhões Antes Que a Avó Morra
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Melancolia" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fi0XkF2GWlSYT4i7AlRTJJzKUY9.jpg" group-title="Filmes | Drama",Melancolia
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Maravilhoso Mágico de Oz - Parte 1" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/s4pK8Cpna56SbYbmFGgKyBvLj7A.jpg" group-title="Filmes | Drama",O Maravilhoso Mágico de Oz - Parte 1
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caça" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jksxm18n70boh0LSlXibjimGr9g.jpg" group-title="Filmes | Drama",A Caça
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Test" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/m7TvhQF74FKF9ROBMMxBeU89wGD.jpg" group-title="Filmes | Drama",Test
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Garota, Interrompida" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wUO6W6DVF5x5ppQ2X2YXi7HIm1.jpg" group-title="Filmes | Drama",Garota, Interrompida
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sing Sing" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vOWG25kbkyt5AYTzoJals7Gytj.jpg" group-title="Filmes | Drama",Sing Sing
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pandemia da Água" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fPpr2Smzj8HzvgjJ2hvXZ7dvVFx.jpg" group-title="Filmes | Drama",A Pandemia da Água
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gerda" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dwrfWFIkWDBHhkPc50qgqWYrL0n.jpg" group-title="Filmes | Drama",Gerda
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Resgate de um Campeão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/zWD2ltU34lia1y9pyaPpwIEcDFU.jpg" group-title="Filmes | Drama",O Resgate de um Campeão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Professor, Minha Obsessão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mrYqLuFP2s6oXvcz7tCStLFZNHQ.jpg" group-title="Filmes | Drama",Meu Professor, Minha Obsessão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La La Land: Cantando Estações" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yArr9VMatOTEMRZ0H1s8pNHQW78.jpg" group-title="Filmes | Drama",La La Land: Cantando Estações
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fátima" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/clcetWWB5NSUI6lfvydTQPqLQxk.jpg" group-title="Filmes | Drama",Fátima
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Extra! Extra!" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/o2aBhascjKBR8kFOzCWm1P50mk2.jpg" group-title="Filmes | Drama",Extra! Extra!
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corações Prometidos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iolOzpZILKFf2Ve88VnaKwU4DEg.jpg" group-title="Filmes | Drama",Corações Prometidos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombras da Vida" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dSrD6Tkn4UgW7slML7wDYZlu9kA.jpg" group-title="Filmes | Drama",Sombras da Vida
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Filho de Deus" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dawSGD2qjDGNL29yIF9oW4dICgS.jpg" group-title="Filmes | Drama",O Filho de Deus
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Divas do Blue Iguana" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8Bin13Hb29M9QGLxKvP9idMmA78.jpg" group-title="Filmes | Drama",As Divas do Blue Iguana
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bela Maldição" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/o5lFvZw1UqU3eRGDDBHP6Q9JO2l.jpg" group-title="Filmes | Drama",Bela Maldição
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desafie a Escuridão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/s1qCaXeiYABTxqFmiMEpD1xvywW.jpg" group-title="Filmes | Drama",Desafie a Escuridão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem das Multidões" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/69ixElGDaT9G8eYwZePzYS9t47z.jpg" group-title="Filmes | Drama",O Homem das Multidões
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Temporada de Traição" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/AbBBQUILnLqf7ABoxPqbFDm8uOB.jpg" group-title="Filmes | Drama",Temporada de Traição
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Despertar de Valerie" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/swKSAf6k0E6zfhW0NG5xGXNqYWw.jpg" group-title="Filmes | Drama",O Despertar de Valerie
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Evereste" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2PkYTktwBeaB7xbBatMJmAY67lD.jpg" group-title="Filmes | Drama",Evereste
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Além da Vida" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/xNnd2jFEV9KjNU6M31HoOosloDI.jpg" group-title="Filmes | Drama",Além da Vida
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Medo de Amar" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ape2o0FE8YAIqAcmX0alrbsBmC3.jpg" group-title="Filmes | Drama",Sem Medo de Amar
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagre do Destino" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aacMhj1dcoHnAwuQpKWzGTxUSYw.jpg" group-title="Filmes | Drama",Milagre do Destino
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Golpe de Superação" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yhdeY8Ua4tDordwPJ4GGxmI2OF8.jpg" group-title="Filmes | Drama",Golpe de Superação
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fora dos Muros da Escola II" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vA5klcvvxpRDBG3zBW3Nh8UHcWQ.jpg" group-title="Filmes | Drama",Fora dos Muros da Escola II
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marinette" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lzFuYbWkSbg8s5uml0Sta8F868l.jpg" group-title="Filmes | Drama",Marinette
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dormindo com o Inimigo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/MDHMzwa1xkTZDhed68kviLIIj2.jpg" group-title="Filmes | Drama",Dormindo com o Inimigo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Donnybrook - Luta Pela Redenção" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jbw7jGT9PFLJQqyoxuXLqbhQmWQ.jpg" group-title="Filmes | Drama",Donnybrook - Luta Pela Redenção
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Tempestade do Século" tvg-logo="https://i.bj-share.info/72224c5c71bb89374376527ba8deca23.jpg" group-title="Filmes | Drama",A Tempestade do Século
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Tyler Perry: Duplicidade" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/qo2NF3cybNajzf1nP71X3KQk7AJ.jpg" group-title="Filmes | Drama",De Tyler Perry: Duplicidade
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Preto e Branco" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dSBSU7zdK8c7x8tzeQQhuSoVuIh.jpg" group-title="Filmes | Drama",Preto e Branco
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por Amor e Honra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/33vMhLXtSKT9w3JrdqaNIM2hPyc.jpg" group-title="Filmes | Drama",Por Amor e Honra
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anna" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fRtc0lOjmi8qGopOW2oLhECgMHl.jpg" group-title="Filmes | Drama",Anna
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Fogo Interior" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rmIcnSRl65AUa8TJMCJZV2RL4z1.jpg" group-title="Filmes | Drama",O Fogo Interior
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Showgirl" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/xBO5ATR7PaoH4BWhPX9tqGKSPam.jpg" group-title="Filmes | Drama",A Última Showgirl
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Armas na Mesa" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/uHYwAUc4AiyUpkwjERq5icFKt2d.jpg" group-title="Filmes | Drama",Armas na Mesa
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Você Nunca Esteve Realmente Aqui" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8OabfdTtAZgenyejDFD5UjVGQeE.jpg" group-title="Filmes | Drama",Você Nunca Esteve Realmente Aqui
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Revelação" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/qntuw73B4YOwmHnriFDMZKiR7Li.jpg" group-title="Filmes | Drama",Revelação
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Força Maior" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/zNmdJn2A8V9UOUk6FLpK8yMxZjD.jpg" group-title="Filmes | Drama",Força Maior
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fim de Festa" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/eSGIE8iWDfsjJU1JJ0SlNvA02pG.jpg" group-title="Filmes | Drama",Fim de Festa
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Febre do Rato" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/no7jrbQHSBtAoaOG1i3an0O2bW7.jpg" group-title="Filmes | Drama",Febre do Rato
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Cidade ou As Aventuras e Desventuras de Luzia e Seus 3 Amigos Chegados de Longe" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2muJ6ayfmJtKCYMIhciq5O6eSfv.jpg" group-title="Filmes | Drama",A Grande Cidade ou As Aventuras e Desventuras de Luzia e Seus 3 Amigos Chegados de Longe
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cartomante" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/slNJke5A0xQU70gTJCdrRBTMdmE.jpg" group-title="Filmes | Drama",A Cartomante
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Caixa Especial" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2UobcuSK4ICE2oPogYprxSITHSH.jpg" group-title="Filmes | Drama",Uma Caixa Especial
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Do Fundo do Coração" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7pvBKUEEs1kwZOtJMevZ9NUM2CH.jpg" group-title="Filmes | Drama",Do Fundo do Coração
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Volta para o Presente" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/uagAZJ5Uo0UUqk2nn8Geom42Mdh.jpg" group-title="Filmes | Drama",De Volta para o Presente
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade da Máfia" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nUSjEtlVrXKDA6IVZnGfUPOcC0m.jpg" group-title="Filmes | Drama",Cidade da Máfia
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maria Callas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bvwkLv20GrNIU7WSjCcpJVKxFUc.jpg" group-title="Filmes | Drama",Maria Callas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Confetti: Além das Palavras" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/m2DvXwnSb17gKVj3UM6Ht26ec7m.jpg" group-title="Filmes | Drama",Confetti: Além das Palavras
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conclave" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wWn78TMMw8yOdr5sG0Yl9v4saoA.jpg" group-title="Filmes | Drama",Conclave
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valsa com Bashir" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/y0t0yTyrEkzDf0Yl8uiSLrVPWvQ.jpg" group-title="Filmes | Drama",Valsa com Bashir
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bicho de Sete Cabeças" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/x6NXI2jvi9iKbzjjHRMtZ7mCPjB.jpg" group-title="Filmes | Drama",Bicho de Sete Cabeças
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Menina que Roubava Livros" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2ey60A2E4bTJAWSLapYhGkVrmCY.jpg" group-title="Filmes | Drama",A Menina que Roubava Livros
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gölgeler ve Suretler" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2VIkKj6XY7pZ45HnslVuc3IvAV.jpg" group-title="Filmes | Drama",Gölgeler ve Suretler
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Júri" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tf5NAi0Mvo5bxzxRxupsJmFn51a.jpg" group-title="Filmes | Drama",O Júri
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogo de Traições - A Origem" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/AvmRYDhID4nt8RbfWmNgr7iDLD6.jpg" group-title="Filmes | Drama",Jogo de Traições - A Origem
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Campo dos Sonhos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dKMDWgdOVCMR11lH3RYB2VnR8YV.jpg" group-title="Filmes | Drama",Campo dos Sonhos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida de Um Campeão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iL6kBELX23KEBvL5Ro1EFEdWOWP.jpg" group-title="Filmes | Drama",A Vida de Um Campeão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Semente do Fruto Sagrado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/eUseiPOEMhWIOV06RQCNjB4U9Kx.jpg" group-title="Filmes | Drama",A Semente do Fruto Sagrado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Manhã de Cada Vez" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5OE6guYVi5TlPjg2EaBQ5Afsg0D.jpg" group-title="Filmes | Drama",Uma Manhã de Cada Vez
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Para Onde Vamos Quando Morremos?" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ymD4JBph5SJuUfTg6pwZsOTx6N1.jpg" group-title="Filmes | Drama",Para Onde Vamos Quando Morremos?
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Lição do Passado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gGGFHfoA4fYPHZeWpq6oB9Z73EV.jpg" group-title="Filmes | Drama",Uma Lição do Passado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Laços de Sangue" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fBck0353UAGYf6qD32fJpjbYD7u.jpg" group-title="Filmes | Drama",Laços de Sangue
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Reformatório Nickel" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hlTuZinZ2EvrkTKpW66z2RXySmE.jpg" group-title="Filmes | Drama",O Reformatório Nickel
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gracinha" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/qS47nqfqRzdXXsEsGhxi2i7VLoZ.jpg" group-title="Filmes | Drama",Gracinha
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Volta ao Mar" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/zfRR2CkbvYrLuOPQFm8vBaENyMy.jpg" group-title="Filmes | Drama",De Volta ao Mar
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jardim dos Esquecidos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/11uRv4MRRilqIPphDzwp3fQNUkP.jpg" group-title="Filmes | Drama",O Jardim dos Esquecidos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acqua Movie" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yE2pvRlvNU2Pg1OzfFQYDAeRkZP.jpg" group-title="Filmes | Drama",Acqua Movie
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Mundo Selvagem" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/t7322pNLcGYv1yCF15b7GHcrKYv.jpg" group-title="Filmes | Drama",Um Mundo Selvagem
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Twister" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/f3Wf4mR6SmqzLae7extudBfpL4b.jpg" group-title="Filmes | Drama",Twister
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tristão & Isolda" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jV2WzrMEGrdPuABidXg0lOzOoIm.jpg" group-title="Filmes | Drama",Tristão & Isolda
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Partida Fria" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7YRO2Jamqb6ck5vJqrwWgMFWuPW.jpg" group-title="Filmes | Drama",Partida Fria
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Encontro com o Amor" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8rAHY4G69iz1hwG6tkeBNupzimz.jpg" group-title="Filmes | Drama",De Encontro com o Amor
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acerto de Contas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/xP9haFTcTMg7RMEvTWBQu7igudQ.jpg" group-title="Filmes | Drama",Acerto de Contas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Juventude" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/crra1ak4qRXPfMoHuhQRfxlmOFD.jpg" group-title="Filmes | Drama",A Juventude
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ressurreição" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/s94MQfIpOx2cqhbTBLBXEmjs5LL.jpg" group-title="Filmes | Drama",Ressurreição
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paranoid Park" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/g0kkqH8FT3lvbmgEFyy9daG4DA6.jpg" group-title="Filmes | Drama",Paranoid Park
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Preço da Traição" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/u0zwbjG47lPFK0dnIajMVUvbNRK.jpg" group-title="Filmes | Drama",O Preço da Traição
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Articulador" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7FsbWJq43lQGCIPxe8z3zBwEIkh.jpg" group-title="Filmes | Drama",O Articulador
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Novo Mundo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gLEp2J0FkzfuehEktVk8UT79w9A.jpg" group-title="Filmes | Drama",Novo Mundo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Identidade Roubada" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/i3GhCTfDGp2MqIOrLY5nm7ICzKC.jpg" group-title="Filmes | Drama",Identidade Roubada
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas de Fúria" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/120GwiD01pfR3hIezUwbSDY2mm1.jpg" group-title="Filmes | Drama",24 Horas de Fúria
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Priscilla, a Rainha do Deserto" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4owxaljayRzWiXecgcN1PHfU6Ry.jpg" group-title="Filmes | Drama",Priscilla, a Rainha do Deserto
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pecado da Fé" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/A1ODBnOcNZYxItiNBocKXzkkvpS.jpg" group-title="Filmes | Drama",O Pecado da Fé
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eterno Amor" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/UOp4qWPWx0rRFSEDAgiBN1KPNE.jpg" group-title="Filmes | Drama",Eterno Amor
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Algum Lugar do Passado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aKGMcizZuTMKMkqmdP9cRECtwyQ.jpg" group-title="Filmes | Drama",Em Algum Lugar do Passado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marcas do Destino" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fWpqCdJCUCkHQZYm7i811gCHSqd.jpg" group-title="Filmes | Drama",Marcas do Destino
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Controle: A História de Ian Curtis" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/oQbosZPyHzZM9QICz4zfeCNCh6u.jpg" group-title="Filmes | Drama",Controle: A História de Ian Curtis
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chorus Line - Em Busca da Fama" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3emEMcdrABPkFR66ruYRCrbj7u7.jpg" group-title="Filmes | Drama",Chorus Line - Em Busca da Fama
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apesar de Tudo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dmKJSpNsmtnF9YbBpNWtCP10vrc.jpg" group-title="Filmes | Drama",Apesar de Tudo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caminho da Liberdade" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4eCeFZln8zsrgBz33BCiGQMR5EX.jpg" group-title="Filmes | Drama",Caminho da Liberdade
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Procura da Perfeição" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sNfqSx8A50NjCAETegsv0YvZEp7.jpg" group-title="Filmes | Drama",À Procura da Perfeição
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hotel Ruanda" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lOBsGSCBEZNdsiCNpoSG2S6xrdN.jpg" group-title="Filmes | Drama",Hotel Ruanda
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Maldito" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7eyC9WAm1ggM6m18BaVwTXcYHhj.jpg" group-title="Filmes | Drama",Amor Maldito
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Histórias Invisíveis" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/v4YIoskn5M1ZZbDn9kaFPtmJO4Z.jpg" group-title="Filmes | Drama",Histórias Invisíveis
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avenida Beira-Mar" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nf9IXc1viF2TV0ZekjhqzopWbR7.jpg" group-title="Filmes | Drama",Avenida Beira-Mar
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Red Rooms" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pTvVEWtU5A6mGGnDRVFQfB1qUjk.jpg" group-title="Filmes | Drama",Red Rooms
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Domingo Qualquer" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iXOt14U0DU7Fe87WdiAXzzACJW5.jpg" group-title="Filmes | Drama",Um Domingo Qualquer
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rumo ao Paraíso" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/QaJOGUHnswQvqR4t8EXlznfcLv.jpg" group-title="Filmes | Drama",Rumo ao Paraíso
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rei do Rio" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mQVHj3oBNbRbc7yXXrCrT7WsILg.jpg" group-title="Filmes | Drama",Rei do Rio
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rede de Intrigas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/g89b9WXmMX9Ijw752Rm2IDlpmyo.jpg" group-title="Filmes | Drama",Rede de Intrigas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Coração de Clara" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fxyKAekqff2BMf20KbPuNt9WY9i.jpg" group-title="Filmes | Drama",O Coração de Clara
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher Objeto" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/y9uTmbOLzUwAlxc1clZBouNH5jO.jpg" group-title="Filmes | Drama",Mulher Objeto
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota de Rosa Shocking" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pAbD3qSFsjlPn056nkQiNR8O8Wj.jpg" group-title="Filmes | Drama",A Garota de Rosa Shocking
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Irmãs" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/qtWebugZ2OSNp451nECMuZuvS3B.jpg" group-title="Filmes | Drama",Entre Irmãs
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Conto de Natal" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bvAb2QuPmpCFs9KEg0uYlCvhT7P.jpg" group-title="Filmes | Drama",Um Conto de Natal
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CaboBlanco" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3I36PUMSiXL88JzXr5b6ogp7NUf.jpg" group-title="Filmes | Drama",CaboBlanco
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anuja" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/84YVJuVaJ0tlo244eRUTNdIe9uL.jpg" group-title="Filmes | Drama",Anuja
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Consentimento" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kb5L9DbZTGeRnsrBrVD5MXlWNWG.jpg" group-title="Filmes | Drama",Consentimento
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Palestina: Uma Terra em Conflito" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1thmzGOwPc1Vyx3zCVgl1cScheT.jpg" group-title="Filmes | Drama",Palestina: Uma Terra em Conflito
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Intenções Perigosas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/latrrZjz5kwVz3Am3ajLaCrJ1LW.jpg" group-title="Filmes | Drama",Intenções Perigosas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tesouro" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fnIVLWwSMBBItgExsGi9QqQbG6v.jpg" group-title="Filmes | Drama",Tesouro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/770532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Monstro no Caminho" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/eCl3o3cx6nBic4HOxpZgauxZ75V.jpg" group-title="Filmes | Terror",Um Monstro no Caminho
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Especial" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/t8HNHp3mv9lKAiTq42sS1mPJBCH.jpg" group-title="Filmes | Terror",O Especial
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colinas de Sangue" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/23KP5NlINlYTL2hISrZ6C7gYvxV.jpg" group-title="Filmes | Terror",Colinas de Sangue
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Djinn: Cuidado com o que deseja" tvg-logo="http://gstaticontent.com/images/7cf7b531c00cd11f9b3bc81dbc8199ec.jpg" group-title="Filmes | Terror",Djinn: Cuidado com o que deseja
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cadáveres" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mQhSNeAZaYpVn2CJwKSnqvM1Ek5.jpg" group-title="Filmes | Terror",Cadáveres
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Mente do Demônio" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rKRra8tFuUKjed2JEpNRXrPkimi.jpg" group-title="Filmes | Terror",Na Mente do Demônio
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grande Tubarão Branco" tvg-logo="http://gstaticontent.com/images/048dcc3021d594b900193bcabfc4a785.jpg" group-title="Filmes | Terror",Grande Tubarão Branco
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Refem Do Espirito" tvg-logo="http://gstaticontent.com/images/vLyY8CXJMY3SLOiDniRfgKOPs5g_big.jpg" group-title="Filmes | Terror",Refem Do Espirito
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellraiser IV - Herança Maldita" tvg-logo="http://gstaticontent.com/images/7xWKra8RAM1Dm8ObqmxviaaUeRS_big.jpg" group-title="Filmes | Terror",Hellraiser IV - Herança Maldita
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fenômenos Paranormais 2" tvg-logo="http://gstaticontent.com/images/jCzBfhuM7wSGrcK1aYLNArX0qn7_big.jpg" group-title="Filmes | Terror",Fenômenos Paranormais 2
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Presença" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/v9KyEvkhBUeasEE4NiNjG6FOoyv.jpg" group-title="Filmes | Terror",Presença
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desastre no Voo US57" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ycMecYeceyoXrXzQqjyiSHJXQVA.jpg" group-title="Filmes | Terror",Desastre no Voo US57
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota na Escuridão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8N2qdKKgfompCwdS0s4BCFYDjJu.jpg" group-title="Filmes | Terror",A Garota na Escuridão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imagens do Além" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8w5S2z6tGQnfsYIdwcAt5rdM6GL.jpg" group-title="Filmes | Terror",Imagens do Além
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Medo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aAm3cdJNNFVDfa0N1TNqfLgnMYd.jpg" group-title="Filmes | Terror",Medo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação Overlord" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/zmlaHhabh23m3CKhRxsc357jKop.jpg" group-title="Filmes | Terror",Operação Overlord
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ao Cair da Noite" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ysnZXx7YKZdlC9APTcwTCiZ4avC.jpg" group-title="Filmes | Terror",Ao Cair da Noite
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amaldiçoados" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aGKMkExXFXL1dxNGXsMpGQr3MP.jpg" group-title="Filmes | Terror",Amaldiçoados
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Macaco" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rTrmXgAt6ZjbzfvGz6hbzkqMEW9.jpg" group-title="Filmes | Terror",O Macaco
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ash: Planeta Parasita" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/eLSyG8BPGS3QbWJMBklYFtduFP8.jpg" group-title="Filmes | Terror",Ash: Planeta Parasita
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perigo Próximo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sfRJ6xtfaT1uUWA4YsxU3hGFJbQ.jpg" group-title="Filmes | Terror",Perigo Próximo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nao Converse com Estranhos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ryHaa5HMMOzcDXM9nExW0puZwGN.jpg" group-title="Filmes | Terror",Nao Converse com Estranhos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contos do Dia das Bruxas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1wr3hBGt8oqpwJENmtXHYW40h5E.jpg" group-title="Filmes | Terror",Contos do Dia das Bruxas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bem-Vindo ao Círculo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dvnBcWKW9j681cTGuGWQgVdoE8H.jpg" group-title="Filmes | Terror",Bem-Vindo ao Círculo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Terror" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pRapSkoVtHeXDPfUP4883njzIJ3.jpg" group-title="Filmes | Terror",A Casa do Terror
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até que A Morte Nos Separe" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yRp4SnV4uRt5v4K9FyBYTekVzcw.jpg" group-title="Filmes | Terror",Até que A Morte Nos Separe
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Chorona" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2D8MtUYt9ojKmKvyeXpsfZtDDgw.jpg" group-title="Filmes | Terror",A Maldição da Chorona
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Morgan: A Evolução" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ilNXSi7ENjoiZh9hNIpUbjlZE6J.jpg" group-title="Filmes | Terror",Morgan: A Evolução
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Instinto Voraz" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pWFBKjwtQC9MnpzgEUDhX2V3jmV.jpg" group-title="Filmes | Terror",Instinto Voraz
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Terror" tvg-logo="http://gstaticontent.com/images/pRapSkoVtHeXDPfUP4883njzIJ3_big.jpg" group-title="Filmes | Terror",A Casa do Terror
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/788315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Pastor" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/19sELUc83mmsT6Kt9m8mTeo1onK.jpg" group-title="Filmes | Acao",O Bom Pastor
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogo de Risco" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gudhSz8sDzRXxHY5XchllQKxw77.jpg" group-title="Filmes | Acao",Jogo de Risco
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mestre do Crime" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mkxECqhal1sRGHIWzKoJyHfGiOK.jpg" group-title="Filmes | Acao",O Mestre do Crime
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resgate Implacável" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8T6N3NJd8p464uj6ydoPbWwprys.jpg" group-title="Filmes | Acao",Resgate Implacável
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fúria Sobre Rodas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kDyCVJHZvHWTr0YFWxYROEZkf8t.jpg" group-title="Filmes | Acao",Fúria Sobre Rodas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luz, Câmera, Ação" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iBFDnNVH0fLKU3SS93J88xN9J0c.jpg" group-title="Filmes | Acao",Luz, Câmera, Ação
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bala Perdida 3" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/o3qkeilLeMJ7Au6O4zMX09VnkBc.jpg" group-title="Filmes | Acao",Bala Perdida 3
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dupla Implacável" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/qpiASu5ZX5troHTXlhQGtOJ6lxb.jpg" group-title="Filmes | Acao",Dupla Implacável
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tortura Selvagem - A Grade" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sAuv8wtGqxcQh9QuJ9m5RapbjlU.jpg" group-title="Filmes | Acao",Tortura Selvagem - A Grade
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rápidos e Perigosos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8RaoK2PVUWucLXpsE3FGzR81Z4g.jpg" group-title="Filmes | Acao",Rápidos e Perigosos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Desinformante" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vQHfBhgwhu51GLUIqD5c5V1P6ya.jpg" group-title="Filmes | Acao",O Desinformante
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Com a Cor e a Coragem" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/eBU28W7OWFxhKluBQDHsKLFyL5p.jpg" group-title="Filmes | Acao",Com a Cor e a Coragem
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last Stand of Ellen Cole" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/oq1pGVQ2t3Cy4v7sA4LRhNjtZuJ.jpg" group-title="Filmes | Acao",The Last Stand of Ellen Cole
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bumblebee" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/x9vAcoPsyFQ6m3Re5S9DQSbudyi.jpg" group-title="Filmes | Acao",Bumblebee
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jewel Thief - The Heist Begins" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mv35VxbnRjOCB9FwAJTAsZ8rAn3.jpg" group-title="Filmes | Acao",Jewel Thief - The Heist Begins
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caos e Destruição" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/r46leE6PSzLR3pnVzaxx5Q30yUF.jpg" group-title="Filmes | Acao",Caos e Destruição
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Explosão no Trem-Bala" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dkmuktrqxdxO8ncGnpezrHdFYYa.jpg" group-title="Filmes | Acao",Explosão no Trem-Bala
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roda de Fogo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aw2yvnfqwTumWzvFO78hWUhDcwE.jpg" group-title="Filmes | Acao",Roda de Fogo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Greenfield - Segredos Explosivos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ap7H5zUnufAsfDGA0kOEmCgxW5r.jpg" group-title="Filmes | Acao",Greenfield - Segredos Explosivos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pipeline: O Grande Roubo" tvg-logo="http://gstaticontent.com/images/9ecf4bb7802797f1a317cbdac1675353.jpg" group-title="Filmes | Acao",Pipeline: O Grande Roubo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Saída de Mestre" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/qJ3kCbJ19LHXtVWuWMpy88mFnSO.jpg" group-title="Filmes | Acao",Uma Saída de Mestre
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Memorial Day - Lembranças de uma Guerra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mBp63rPK3pNhWRrsUXrqSPCOXo5.jpg" group-title="Filmes | Acao",Memorial Day - Lembranças de uma Guerra
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Silêncio da Chuva" tvg-logo="http://gstaticontent.com/images/7c872e6fe3b8bf594e3050d8a3b55a28.jpg" group-title="Filmes | Acao",O Silêncio da Chuva
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Passageiras" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4niEFGAUEz3GUqwk9Y2y4aAERhE.jpg" group-title="Filmes | Acao",As Passageiras
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Speed Racer" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/arJV6ypZidAn4qiJXrvow3KbBqZ.jpg" group-title="Filmes | Acao",Speed Racer
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="T-34: O Monstro de Metal" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dA6mPgdFMA03MjerpnndYytyKdT.jpg" group-title="Filmes | Acao",T-34: O Monstro de Metal
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Tatico" tvg-logo="http://gstaticontent.com/images/27fc0aa7095c51670c9bf593f5f645cc.jpg" group-title="Filmes | Acao",Comando Tatico
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Embattled" tvg-logo="http://gstaticontent.com/images/7f76488f34333781c4109dd1fe2f8f74.jpg" group-title="Filmes | Acao",Embattled
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Major Grom Contra o Dr. Peste" tvg-logo="http://gstaticontent.com/images/478484d0e6e8cefff875325a4f675648.jpg" group-title="Filmes | Acao",Major Grom Contra o Dr. Peste
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Braddock: O Super Comando" tvg-logo="http://gstaticontent.com/images/c0941276e87249dd6573c57fde947217.jpg" group-title="Filmes | Acao",Braddock: O Super Comando
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat" tvg-logo="http://gstaticontent.com/images/1c4efe568c75f56afb0852061185d135.jpg" group-title="Filmes | Acao",Mortal Kombat
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Além das Profundezas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFMUReXKTzeKV5tjWecY3v5UDwF.jpg" group-title="Filmes | Acao",Além das Profundezas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mexicana" tvg-logo="http://gstaticontent.com/images/gp81OzJEQb0OHrrcQPvGJajAKTr_big.jpg" group-title="Filmes | Acao",A Mexicana
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Relatos do Mundo" tvg-logo="http://gstaticontent.com/images/e7662cf6635488d4cfb07886c269316e.jpg" group-title="Filmes | Acao",Relatos do Mundo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lei das Ruas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wmE7rJ0YvGcDe5wBb3on7zludk.jpg" group-title="Filmes | Acao",A Lei das Ruas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007 - O Mundo Não é o Bastante" tvg-logo="http://gstaticontent.com/images/9aWgoZRi3BOsExOYWygRbQilsDS_big.jpg" group-title="Filmes | Acao",007 - O Mundo Não é o Bastante
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zona de Combate" tvg-logo="http://gstaticontent.com/images/b22285069b032d360a86f56cc3907ffc.jpg" group-title="Filmes | Acao",Zona de Combate
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop: A Origem" tvg-logo="http://gstaticontent.com/images/7vFsWZGc2ciJVt888FbeKBKWv16_big.jpg" group-title="Filmes | Acao",RoboCop: A Origem
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop 2" tvg-logo="http://gstaticontent.com/images/lGeHKDxWHaSKwNPXYJjns81fR3P_big.jpg" group-title="Filmes | Acao",RoboCop 2
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem de Lugar Nenhum" tvg-logo="http://gstaticontent.com/images/14QbjXp8m3LN9l1U4SoBWy441kr_big.jpg" group-title="Filmes | Acao",O Homem de Lugar Nenhum
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca do Paraiso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpsjIxuGXRbiWPwRv0iDfOpXcwh.jpg" group-title="Filmes | Acao",Em Busca do Paraiso
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Testemunhas Silenciosas" tvg-logo="http://gstaticontent.com/images/o31Mwup2EQAygdjCez21hOXN0ZG_big.jpg" group-title="Filmes | Acao",Testemunhas Silenciosas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stuber - A Corrida Maluca" tvg-logo="http://gstaticontent.com/images/bopJPyP68dJEjO7i0gUrYMYC0Eh_big.jpg" group-title="Filmes | Acao",Stuber - A Corrida Maluca
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Justiceiro - 2019" tvg-logo="http://gstaticontent.com/images/5lEgytFiJhBMV7RhzZynNrtZWn8_big.jpg" group-title="Filmes | Acao",Comando Justiceiro - 2019
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon Detective Pikachu" tvg-logo="http://gstaticontent.com/images/lHwEhsUaB9D0gXO6M08H5tdb2Vx_big.jpg" group-title="Filmes | Acao",Pokemon Detective Pikachu
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Carga" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIHqEw6TZIRS9AhifauEoIiyBz5.jpg" group-title="Filmes | Acao",A Carga
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Justiceiro Estrada do Caos" tvg-logo="http://gstaticontent.com/images/2YYxSzOq66PEOppuQ2XxWm0QRDf_big.jpg" group-title="Filmes | Acao",O Justiceiro Estrada do Caos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13º Distrito" tvg-logo="http://gstaticontent.com/images/fJwAFbjWXdbu0nl8wZPYn1VZkNj_big.jpg" group-title="Filmes | Acao",13º Distrito
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Separados pelas Estrelas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bv9xQJjtX71oUVIUqNmZ9Qnnmxi.jpg" group-title="Filmes | Animacao",Separados pelas Estrelas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lulu, a Rinoceronte" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fzDtbTUC6CwaPc39OFjTfjzthN4.jpg" group-title="Filmes | Animacao",Lulu, a Rinoceronte
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Você Não Foi Eleito, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yxRIpD6Dbfnop3mIC4FoSQTYcjw.jpg" group-title="Filmes | Animacao",Você Não Foi Eleito, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucy Must Be Traded, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/16zR0USEiqd88zfcFJtt2Cd9WLg.jpg" group-title="Filmes | Animacao",Lucy Must Be Traded, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="It's Spring Training, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lK8ROtVrpewUIqcf0AHU4JRF5gT.jpg" group-title="Filmes | Animacao",It's Spring Training, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="É Um Valentão, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5k5GkkkiXddj8aKLUN8xsTKV7Nn.jpg" group-title="Filmes | Animacao",É Um Valentão, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="You're a Good Sport, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wSi3Xh3daiKU0jYPrdansdoOEZF.jpg" group-title="Filmes | Animacao",You're a Good Sport, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Why, Charlie Brown, Why?" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3bWXHBekb1MgVU80So6rES9pGo7.jpg" group-title="Filmes | Animacao",Why, Charlie Brown, Why?
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Snoopy's Getting Married, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sY8VkKcn1CCcEhcbiEVHrI6YEye.jpg" group-title="Filmes | Animacao",Snoopy's Getting Married, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="She's a Good Skate, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mvf9MFvDE9jXJ2RsQMVIpuFKxio.jpg" group-title="Filmes | Animacao",She's a Good Skate, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seu Primeiro Beijo, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/25gxjItxw9uoCJ65zTeDU1oH6rQ.jpg" group-title="Filmes | Animacao",Seu Primeiro Beijo, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Play It Again, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/q9U3eYAOb3BBuPCtN83rHzCAVcT.jpg" group-title="Filmes | Animacao",Play It Again, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Is This Goodbye, Charlie Brown?" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4XLs5aTKxRjbD7kcUjN3doErNm4.jpg" group-title="Filmes | Animacao",Is This Goodbye, Charlie Brown?
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="É o Dia da Árvore, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/A9MDtJOobO4sAJ45kqgZD70AZRg.jpg" group-title="Filmes | Animacao",É o Dia da Árvore, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida É Um Circo, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wZcFoPHNtDZpdD3jn0stXUOl5Vk.jpg" group-title="Filmes | Animacao",A Vida É Um Circo, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="What a Nightmare, Charlie Brown!" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mruSx5m24rk1YRSMnhvg53gDqGs.jpg" group-title="Filmes | Animacao",What a Nightmare, Charlie Brown!
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Você Está Apaixonado, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8bSGFPFlPEimKxZbZH2FX6U9Ewd.jpg" group-title="Filmes | Animacao",Você Está Apaixonado, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Você É O Maior, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4GjmrRGd0JOg63yUt4RcMTnKnTZ.jpg" group-title="Filmes | Animacao",Você É O Maior, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Someday You'll Find Her, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/k6LxfrW4qTPJm8P89bAPhzShO6.jpg" group-title="Filmes | Animacao",Someday You'll Find Her, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Snoopy's Reunion" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/uXIA9XvKVeGKg9DtrdM8aRLy3cx.jpg" group-title="Filmes | Animacao",Snoopy's Reunion
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Snoopy É um Sucesso, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3Aje8jV7qtfOjAS1KM8ntsK1IGK.jpg" group-title="Filmes | Animacao",Snoopy É um Sucesso, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cachorro é Seu, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ArJ5orVPd6gGKMajmlZ39gdERoq.jpg" group-title="Filmes | Animacao",O Cachorro é Seu, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Há Tempo Para O Amor, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/xiz6jii5S2rR8UJfCJ4fWJbU09T.jpg" group-title="Filmes | Animacao",Não Há Tempo Para O Amor, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="It's an Adventure, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8dYQcduWPzX2YKPvtINH2MQ12QW.jpg" group-title="Filmes | Animacao",It's an Adventure, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="It's a Mystery, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/q5t6TLrGbTHeA2lNcbKSV4Frtkc.jpg" group-title="Filmes | Animacao",It's a Mystery, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Foi um Rápido Verão, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5AHXzz4NB4yrirsB5uneDurq0xv.jpg" group-title="Filmes | Animacao",Foi um Rápido Verão, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Felicidade é Um Cobertor Quente, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yjRcn8painrtKiOy0zagyAwH4IH.jpg" group-title="Filmes | Animacao",Felicidade é Um Cobertor Quente, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="É Mágica, Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tM5tm39fHYhSlZcZHVZ1n0exUni.jpg" group-title="Filmes | Animacao",É Mágica, Charlie Brown
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Charlie Brown's All-Stars!" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/43yzLBevC6lprNslYejaLrQyydZ.jpg" group-title="Filmes | Animacao",Charlie Brown's All-Stars!
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Charlie Brown Celebration" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2FJLTvWErabgabH6Z7jibqMj5jq.jpg" group-title="Filmes | Animacao",A Charlie Brown Celebration
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sammy: A Grande Fuga" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1pqJ7jN247L9loMwi0iaSvKt8RX.jpg" group-title="Filmes | Animacao",Sammy: A Grande Fuga
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Street Fighter Alpha: Generations" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/z6amRu0MxrBz1I3oLJz6pkSveG9.jpg" group-title="Filmes | Animacao",Street Fighter Alpha: Generations
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Que Será de Nozes?" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/77kZV9SUlQd3bEzekD2xC06VMAt.jpg" group-title="Filmes | Animacao",O Que Será de Nozes?
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hora do Recreio: Novas Aventuras na 5ª Série" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nHN3oEaXpwhKZ6CZeqkzUOJBZN9.jpg" group-title="Filmes | Animacao",Hora do Recreio: Novas Aventuras na 5ª Série
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inferno de Dante: Uma Animação Épica" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wXpkWgpwkMsTkpPqaPObDSkiQcT.jpg" group-title="Filmes | Animacao",Inferno de Dante: Uma Animação Épica
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kayara - A Princesa Inca" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1F9XXHadJR2as6YAi9hkG6bkDEE.jpg" group-title="Filmes | Animacao",Kayara - A Princesa Inca
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Big Trip 2 Special Delivery" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3MCuk8d81FUauxKkK0W7ZqqeQDd.jpg" group-title="Filmes | Animacao",Big Trip 2 Special Delivery
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pé Pequeno" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sgONktl4877HWn1LcSCSF1p0UtA.jpg" group-title="Filmes | Animacao",Pé Pequeno
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="É Hora de Viajar!" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/xtTambRPnkw3WpnP7yK8QWQyCXa.jpg" group-title="Filmes | Animacao",É Hora de Viajar!
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PAW Patrol: Aqua Pups" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1EU8LWbyAOKwdcyWDC1KMtVjpLe.jpg" group-title="Filmes | Animacao",PAW Patrol: Aqua Pups
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deu Preguiça" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/9esVIoVu17eqOBuZM8yDIDw6j5R.jpg" group-title="Filmes | Animacao",Deu Preguiça
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas: O Filme" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/qUW6cgfzc7Sg2WG337HENcELiF0.jpg" group-title="Filmes | Animacao",As Meninas Superpoderosas: O Filme
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rosa de Versalhes" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8g8OWKMcE6ciHZxwqIi5ceS5fi5.jpg" group-title="Filmes | Animacao",Rosa de Versalhes
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Touro Ferdinando" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rnoYZvoSbS6uogrESSbKOpwg0sB.jpg" group-title="Filmes | Animacao",O Touro Ferdinando
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grinch" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rmXN4DgZrGNxrUaSyR3wE7sG78m.jpg" group-title="Filmes | Animacao",O Grinch
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina: Filhotes Caminhoneiros" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kjEoMZcrIS624I8hyN7B9Jllk3D.jpg" group-title="Filmes | Animacao",Patrulha Canina: Filhotes Caminhoneiros
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OVERLORD: O Reino Sagrado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/u9gboNAQNAu6rzL4nm27On5GsbF.jpg" group-title="Filmes | Animacao",OVERLORD: O Reino Sagrado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia: Agora é a Sua Vez" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lA1ph3BIWgQq0asDYxAxFLtxzx1.jpg" group-title="Filmes | Animacao",My Hero Academia: Agora é a Sua Vez
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Selvagem" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tDnDREbW2eNjd9KvjVKtnNf5A5Y.jpg" group-title="Filmes | Animacao",Selvagem
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/818350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Vorazes: A Esperança - O Final" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3RhLwBs4IcYuAlVhmvnOJUAexYR.jpg" group-title="Filmes | Ficcao",Jogos Vorazes: A Esperança - O Final
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Sharkboy e Lavagirl" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/6WUV2wPCFDX2LRQY5Iv6ElxdDe6.jpg" group-title="Filmes | Ficcao",As Aventuras de Sharkboy e Lavagirl
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ataque à Cabana" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nOJTYppCHeggilm8IsCshq1GuzR.jpg" group-title="Filmes | Ficcao",Ataque à Cabana
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Olho e o Muro" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tj8qBg9YmYPY74c3nFuvOh5eUWC.jpg" group-title="Filmes | Ficcao",O Olho e o Muro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitão América: Admirável Mundo Novo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5nbSgP8f5LMCI0PwVRRaHJaUmR3.jpg" group-title="Filmes | Ficcao",Capitão América: Admirável Mundo Novo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sinal: Frequência do Medo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/zN49DwmmiSD6meurLcuy9SqrIgx.jpg" group-title="Filmes | Ficcao",O Sinal: Frequência do Medo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fogo no Céu" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/g56zuOb45qTQVS32ItxHF7dth4K.jpg" group-title="Filmes | Ficcao",Fogo no Céu
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Max Reload: O Jogo Começou" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/82ltslLbMtEz3Gw9qthi09bO7Kw.jpg" group-title="Filmes | Ficcao",Max Reload: O Jogo Começou
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kin" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yyM6NktVICFnRj7tyvYBMUUq6g3.jpg" group-title="Filmes | Ficcao",Kin
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Últimas Palavras" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/du8Bvn2DPucfIsnMiMzwvzqj8IM.jpg" group-title="Filmes | Ficcao",Últimas Palavras
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kingsglaive: Final Fantasy XV" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nIBoAAlV08z7Cfb7LMuXZD8uhWB.jpg" group-title="Filmes | Ficcao",Kingsglaive: Final Fantasy XV
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Avaliação" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/c1NQYiimXdMnSKPE5x8D1c7bSDr.jpg" group-title="Filmes | Ficcao",A Avaliação
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heróis" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vdDIi3kc1bniVTxyd81XehMRFtL.jpg" group-title="Filmes | Ficcao",Heróis
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassino" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/zADNsaXi7qZLvytih1yjrLj0G90.jpg" group-title="Filmes | Ficcao",Assassino
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic: O Filme" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/eOC0FSGqyzcnnx7XFgLazI9nACT.jpg" group-title="Filmes | Ficcao",Sonic: O Filme
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Elo Perdido" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dnWHyuheFECYFDW8jWAU6xHiSLl.jpg" group-title="Filmes | Ficcao",O Elo Perdido
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça Sombria: Guerra de Apokolips" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/okZMETLdhZypwJfzwjeWIzkIBaK.jpg" group-title="Filmes | Ficcao",Liga da Justiça Sombria: Guerra de Apokolips
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mega Shark Contra Mecha Shark" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/psACMQIVNEH523RdRuzlRb6AcLc.jpg" group-title="Filmes | Ficcao",Mega Shark Contra Mecha Shark
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ad Astra - Rumo às Estrelas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wigZBAmNrIhxp2FNGOROUAeHvdh.jpg" group-title="Filmes | Ficcao",Ad Astra - Rumo às Estrelas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Ultimato" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7jvlqGsxeMKscskuUZgKk0Kuv99.jpg" group-title="Filmes | Ficcao",Vingadores: Ultimato
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Retorno" tvg-logo="http://gstaticontent.com/images/e20d93c6efd4b8f5786c48d4c44b73ec.jpg" group-title="Filmes | Ficcao",Sem Retorno
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ouija: A Casa Amaldiçoada" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/meXl6V5ifDJsiOGCZGOeu4N5rGX.jpg" group-title="Filmes | Terror",Ouija: A Casa Amaldiçoada
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heart Eyes" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg" group-title="Filmes | Terror",Heart Eyes
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terror no Rio" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/A13KTbv0nQt23aehYZUuhLQnddf.jpg" group-title="Filmes | Terror",Terror no Rio
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fúria" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7fyHh1oE9tl1sujg1h7WfxUx0OF.jpg" group-title="Filmes | Terror",A Fúria
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Santa Maud" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/w2J7sk5ZFP1yFHLKCbe3YGnXPYA.jpg" group-title="Filmes | Terror",Santa Maud
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Iluminado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7ceEaLciLfksJkSHqp0vLE5eLyy.jpg" group-title="Filmes | Terror",O Iluminado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fragmentado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ztYvYWpSpFtzM2w5MwsmNzzQbJg.jpg" group-title="Filmes | Terror",Fragmentado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação Obscura" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hj3ZOrWUEcM8zCskYDH3y6ri7ip.jpg" group-title="Filmes | Terror",Operação Obscura
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte Te Dá Parabéns" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/9MMff1YtsR8ynuB5KXZYKLZA3Xo.jpg" group-title="Filmes | Terror",A Morte Te Dá Parabéns
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fantasma no Cemitério" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jOmfC54e0LfoxEEMNbFEhUUA7cj.jpg" group-title="Filmes | Terror",Fantasma no Cemitério
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cuidado com Quem Chama" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/qt2UTzGsFCHF729kKdJOvh8YT4g.jpg" group-title="Filmes | Terror",Cuidado com Quem Chama
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Until Dawn: Noite de Terror" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/95YgqGDuUNSGrx5Obz51tlQLwWb.jpg" group-title="Filmes | Terror",Until Dawn: Noite de Terror
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/822999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rua do Medo: Rainha do Baile" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/skwydfnpaQdRQZfXMroh59FMJyY.jpg" group-title="Filmes | Terror",Rua do Medo: Rainha do Baile
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/823000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Subconsciente" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/foq3CypTY9E3epQvdzVDe1Ge3eT.jpg" group-title="Filmes | Terror",Subconsciente
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/823001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Van Helsing: O Caçador de Monstros" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/s8fhGCLWbFDbBAOitRzVlMPk5pd.jpg" group-title="Filmes | Terror",Van Helsing: O Caçador de Monstros
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/823002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fatos Estranhos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sodcnBx6K6bzXVcrfwLxbpX7xvA.jpg" group-title="Filmes | Terror",Fatos Estranhos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/823003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peter Pan: Pesadelo na Terra do Nunca" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5p0wQ24CWJ4rBxcJtBNs0uc4ech.jpg" group-title="Filmes | Terror",Peter Pan: Pesadelo na Terra do Nunca
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/823004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prova Final" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/leVEAb37sssYg8qLeo46Pc8IcH9.jpg" group-title="Filmes | Terror",Prova Final
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/823005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nunca Diga Seu Nome" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/o2HnADvqyKAZL4cqONc54HYEGRr.jpg" group-title="Filmes | Terror",Nunca Diga Seu Nome
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/823006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mangue Negro" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kDNHKglCTXfiwzYgagwKVVep06h.jpg" group-title="Filmes | Terror",Mangue Negro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/823007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Sempre Vou Saber o Que Vocês Fizeram no Verão Passado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3zMKb8paII5np0HE9C3piRNxA3A.jpg" group-title="Filmes | Terror",Eu Sempre Vou Saber o Que Vocês Fizeram no Verão Passado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/823008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ano Novo, Morte Nova" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dcx3O2vSXUInpPuOe1EvYXIWS4a.jpg" group-title="Filmes | Terror",Ano Novo, Morte Nova
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/823009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Noite: O Despertar" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/f9XgpnQv2eKuekmEGNzfJUSbJKM.jpg" group-title="Filmes | Terror",Anjos da Noite: O Despertar
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/823010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Marca do Medo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/oXn36a7EdPRQy4BZFqYWWF9QrtC.jpg" group-title="Filmes | Terror",A Marca do Medo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/823011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Visões da Mente" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/a2NCtBpiaVyAMZdSCQCPT93v06y.jpg" group-title="Filmes | Terror",Visões da Mente
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/823012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criaturas ao Ataque" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/46FOJVvrOhq04WWZX35m4DYpSWb.jpg" group-title="Filmes | Terror",Criaturas ao Ataque
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/823013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Fábulas Negras" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vgbDS2j5HgJU9PzN42X2uk5iZzm.jpg" group-title="Filmes | Terror",As Fábulas Negras
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/823014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite do Chupacabras" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5zPkA2XIv09ddBPVW5Nnglm1ZEa.jpg" group-title="Filmes | Terror",A Noite do Chupacabras
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/823015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite dos Lobisomens" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/qC7kejOLqMtY2Y2uoeAQuYsesnW.jpg" group-title="Filmes | Terror",A Noite dos Lobisomens
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/823016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Celebração Macabra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dGBzE0g3IFbSiy4TbBPpCo3P99J.jpg" group-title="Filmes | Terror",Celebração Macabra
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/823017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue no Gelo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/r4vU0m1u0qA13w80SCz18XPQIhW.jpg" group-title="Filmes | Suspense",Sangue no Gelo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/826357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atrás da Sombra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/f2kGaGKr1eiQ1JzxMjmTJeDEyiS.jpg" group-title="Filmes | Suspense",Atrás da Sombra
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Negra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ubXNpxL2ASSzY0f8Hxv08pOsV2L.jpg" group-title="Filmes | Acao",Pantera Negra
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/834065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="K.O." tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rt5emaY1f6koXNUbOessY12731J.jpg" group-title="Filmes | Acao",K.O.
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/834066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nas Terras Perdidas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/c3gA6bnnsXG2JoHBBkXsD6w6emm.jpg" group-title="Filmes | Acao",Nas Terras Perdidas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/834067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pecadores" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/a9kYEboW1TQaeilGYUAx1MO0DUp.jpg" group-title="Filmes | Acao",Pecadores
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/834068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Combate" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/w8sNJnX5ZEUgFBRf3vx1spI9BsU.jpg" group-title="Filmes | Acao",O Último Combate
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/834069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="T-34: O Monstro de Metal" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3nag9eCEMIo4yVZD7sKLodEPe8T.jpg" group-title="Filmes | Acao",T-34: O Monstro de Metal
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/834070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebeldes" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dh8XuifohsLD2OJA5QtcpCyXZUZ.jpg" group-title="Filmes | Acao",Rebeldes
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/834071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Efeito Paradoxo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/d3SE74LxGzTrLA7FXqy78Bpu9HE.jpg" group-title="Filmes | Acao",Efeito Paradoxo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/834072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sociedade das Sombras" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/oja9PkRPsxgzFx9HYA4PDPtgUi5.jpg" group-title="Filmes | Acao",Sociedade das Sombras
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/834073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem do Presidente" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kisACBfoIhMW5wVD49rONsp7Rsw.jpg" group-title="Filmes | Acao",O Homem do Presidente
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/834074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coração Valente" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tWBbNikf5ng7BuNGA55MkvhLrag.jpg" group-title="Filmes | Acao",Coração Valente
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/834075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scarface" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4d6ksr4wsBd1fifF7YLAm9wbWiK.jpg" group-title="Filmes | Acao",Scarface
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/834076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Balas Que Não Erram" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/88lxLHasZ20JqZ6AEAfB4LP474N.jpg" group-title="Filmes | Acao",Balas Que Não Erram
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/834077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Código Alarum" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3wguDZosR8jc4mDG1jXfQKIPMXz.jpg" group-title="Filmes | Acao",Código Alarum
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/834078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Confisco" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/6TzJUkKCQSg84WG2ew0WNC4gHBq.jpg" group-title="Documentarios",Confisco
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Partido Alto" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/f6n6Q67XDf248IMUi6Ff5saXqWH.jpg" group-title="Documentarios",Partido Alto
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nelson Freire" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hNTgddWatf6BdYGzWdnNOHv4ABR.jpg" group-title="Documentarios",Nelson Freire
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fuga de Hitler" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gjYja1WTHMDdoZtrkDmdNWzbR0O.jpg" group-title="Documentarios",A Fuga de Hitler
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soldados Nissei da 2ª Guerra Mundial" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tzhRQQhMMtUO4QNPncQqMSUKhx1.jpg" group-title="Documentarios",Soldados Nissei da 2ª Guerra Mundial
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Michigan Hell House" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/cbkvw3bFTynQf8ZTUKdFifWJUGq.jpg" group-title="Documentarios",Michigan Hell House
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Visitantes Alienígenas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4vZRsYeKQ2DrC35biZlyXNFyJZb.jpg" group-title="Documentarios",Visitantes Alienígenas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fantasmas na Casa Branca" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/r30zsarcgssBXDILLLDvotywusW.jpg" group-title="Documentarios",Fantasmas na Casa Branca
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Titán: The Adrián González Story" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jRjzvCaGj5DFgHHtz5ZCRYepOFp.jpg" group-title="Documentarios",El Titán: The Adrián González Story
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cidade Perdida de Tutancâmon" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7DWLLFJdzldEucXQrA3Bhvvfjhq.jpg" group-title="Documentarios",A Cidade Perdida de Tutancâmon
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resgate Impossível: 70 Dias Sob a Terra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8DJTj9HoeAL0Ycql38SJp6XumIY.jpg" group-title="Documentarios",Resgate Impossível: 70 Dias Sob a Terra
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Titan: O Desastre da OceanGate" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tcdz5yKjEvJQxJzjvbsphjNSNCe.jpg" group-title="Documentarios",Titan: O Desastre da OceanGate
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rita Lee: Mania de Você" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7bD5lOOfWCcrlav2U8IzbEfETp0.jpg" group-title="Documentarios",Rita Lee: Mania de Você
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Lizzie Borden" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yD5z6Ha9tlgjT2EjIZeimuMH5cq.jpg" group-title="Documentarios",A Maldição de Lizzie Borden
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Livro Perdido de Nostradamus" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rlmlH6AzGdzeMhvu0ah0RsVyzgD.jpg" group-title="Documentarios",O Livro Perdido de Nostradamus
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conspiração Nazi" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5Z1MIATq7rkPVdHkrXVdDxzoXyX.jpg" group-title="Documentarios",Conspiração Nazi
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Doutrinas Nazistas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/uLDGPCHDNSmulV3dbclat9oUqtn.jpg" group-title="Documentarios",As Doutrinas Nazistas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mente de Um Monstro: Robert Hansen, o Caçador" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rS1RhHcwJGunzlMav233anqnKyl.jpg" group-title="Documentarios",A Mente de Um Monstro: Robert Hansen, o Caçador
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apesar De," tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iWXnE2RlnTZNqpMUkcFZhJ1E21I.jpg" group-title="Documentarios",Apesar De,
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Identity Crisis" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/exn8EHcWO00Sb7LtZG4h4xLboiS.jpg" group-title="Documentarios",Identity Crisis
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ilha Christmas: O Reino do Caranguejo-Ladrão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nw31zaIhzA7WmZ9fEUOo5a9eP7I.jpg" group-title="Documentarios",Ilha Christmas: O Reino do Caranguejo-Ladrão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Que Aconteceu com o Rei dos Golfinhos?" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/eALBxCLwgOECIbEVH8aa5UAWLW0.jpg" group-title="Documentarios",O Que Aconteceu com o Rei dos Golfinhos?
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tubarões vs. Embarcações" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/9keFa1FEc3GZJLdGZzH2hNRquer.jpg" group-title="Documentarios",Tubarões vs. Embarcações
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andre Matos - Maestro do Rock - Episódio II" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jtZqtGJMqcoSjLOkzCviIRNM9Lf.jpg" group-title="Documentarios",Andre Matos - Maestro do Rock - Episódio II
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andre Matos - Maestro do Rock - Episódio I" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fthRn3Avd3BitVt0OHoaxnOfbDn.jpg" group-title="Documentarios",Andre Matos - Maestro do Rock - Episódio I
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imagens do Inconsciente - Em Busca do Espaço Cotidiano" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dS5LBLdczfuBFHXHJVG6SseRRT2.jpg" group-title="Documentarios",Imagens do Inconsciente - Em Busca do Espaço Cotidiano
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Belov: Uma Vida no Mar" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/daRaf2hmRqXwAO978BHuks9LQ14.jpg" group-title="Documentarios",Belov: Uma Vida no Mar
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MST - Terra Prometida" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vKeRZMctf0HhvlXSlNO3MOxBrJ8.jpg" group-title="Documentarios",MST - Terra Prometida
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thunderbirds: A Elite da Força Aérea dos EUA" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fGGovl6p5qQ5wfRbhwjqypejOtQ.jpg" group-title="Documentarios",Thunderbirds: A Elite da Força Aérea dos EUA
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Untold: A Queda de Brett Favre" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/9bVfFo7PLMcRICRIbzPkWZzYIWY.jpg" group-title="Documentarios",Untold: A Queda de Brett Favre
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Óvnis: Segredos na Casa Branca" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/XU6sKrhrw7zAh3p23Fes3oiFpQ.jpg" group-title="Documentarios",Óvnis: Segredos na Casa Branca
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Caso Anat Kamm" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mTRautAXsAKjpeFl9v9dzvaTbAm.jpg" group-title="Documentarios",O Caso Anat Kamm
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Caçadores de Óvnis" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/xClHAH3EREc1oHXVTLRWgIgRUim.jpg" group-title="Documentarios",Os Caçadores de Óvnis
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baila, Vini" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2yzoEUZTf41h6SXVz6V0Z9fHkHN.jpg" group-title="Documentarios",Baila, Vini
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Untold: O Rei do Fígado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vuAqZ4Ugc7ZJYOgrpSWpx6n06ao.jpg" group-title="Documentarios",Untold: O Rei do Fígado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casamento Letal nos EUA" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ajoYbGEbI7Rffj1P695iAEmDUo7.jpg" group-title="Documentarios",Casamento Letal nos EUA
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vai Corinthians" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sEIoMxHIbIGQPPjJew0CNgy9bMZ.jpg" group-title="Documentarios",Vai Corinthians
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clarão/Chuva Negra: A Destruição de Hiroshima e Nagasaki" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/viceMdFGy8aIyJFb07mwAeMbpwW.jpg" group-title="Documentarios",Clarão/Chuva Negra: A Destruição de Hiroshima e Nagasaki
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Untold: Defesa Armada" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3ZDz3IQjq2tWGi46UALvMBqYG1r.jpg" group-title="Documentarios",Untold: Defesa Armada
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grã-Bretanha e a Blitz" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/6vB4qFbQe67KfaJ9Ne6zItt3gVX.jpg" group-title="Documentarios",A Grã-Bretanha e a Blitz
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rio de Janeiro: Paraíso em Chamas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/6zRaBLTmdnP2pkaOtrPlEbkPULe.jpg" group-title="Documentarios",Rio de Janeiro: Paraíso em Chamas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Josef Mengele: O Anjo da Morte" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yf6RnMH0XtuyONgkIiFRBVDj2b6.jpg" group-title="Documentarios",Josef Mengele: O Anjo da Morte
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carmen Miranda: Bananas Is My Business" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aYYFx5SDQmhTwZnYxSA3r5xlAir.jpg" group-title="Documentarios",Carmen Miranda: Bananas Is My Business
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Americano" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/psxATL48MT6MGg1fFht42pW0Dvm.jpg" group-title="Documentarios",Americano
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gente" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tGDnBdmJQEtXbVZ0EWmhCM5BTxD.jpg" group-title="Documentarios",A Gente
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Papa do Fim do Mundo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5wGHM0fIp8F6CiFGL5orQatmg4E.jpg" group-title="Documentarios",O Papa do Fim do Mundo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Segredos da Construção do Vaticano" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4JvTiwRoJAAKKsXy25ufatvonag.jpg" group-title="Documentarios",Os Segredos da Construção do Vaticano
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Setenta" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/c1c672Zm4S2VhPe9anLWewogayO.jpg" group-title="Documentarios",Setenta
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Provando a Existência de Deus" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/n5qsObi9OjgC5UuHiu0fUGXbPPA.jpg" group-title="Documentarios",Provando a Existência de Deus
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pangolim: A Viagem de Kulu" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7Ky1cTLJzOk8or25YGEvw8S6oxI.jpg" group-title="Documentarios",Pangolim: A Viagem de Kulu
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atentado em Oklahoma: Terror nos EUA" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/e5fgv7EHBCQG07x09RaiOFRrGN3.jpg" group-title="Documentarios",Atentado em Oklahoma: Terror nos EUA
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Premonição 6: Laços de Sangue" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/x3J781PsdMrjenzQKM5eJXqK5Nd.jpg" group-title="Filmes | Terror",Premonição 6: Laços de Sangue
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby Blue - Assassino em Série" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pGQBdxxdASxycNBNdzH4nEyEfqW.jpg" group-title="Filmes | Terror",Baby Blue - Assassino em Série
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombras Sinistras" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kMAwXMBtN1pKrGkmFsEMeBale1A.jpg" group-title="Filmes | Terror",Sombras Sinistras
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher Solteira Procura" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7rHw3ZAV9PnGr8cGoidkIFrEAAF.jpg" group-title="Filmes | Terror",Mulher Solteira Procura
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Radley" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3dq4vrOePMR39eKcYqllI1TrZXb.jpg" group-title="Filmes | Terror",Os Radley
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Desligue" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/zj6dotjlBg7Rw9DdYx8RzqDIaTR.jpg" group-title="Filmes | Terror",Não Desligue
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Condado Macabro" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/qeBVxzEDIC0LRrkaKVDinR6RUn6.jpg" group-title="Filmes | Terror",Condado Macabro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Regresso do Mal" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/Ah2e9jcm2ySJq6pFvIgIX4KcVvi.jpg" group-title="Filmes | Terror",Regresso do Mal
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Pesadelo Sem Fim" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1cic7s5p0DRdsvshzZVyEtNUJPn.jpg" group-title="Filmes | Terror",Um Pesadelo Sem Fim
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Mergulho" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5DDkYPtk1aX9fmP4PKN5ko3hymy.jpg" group-title="Filmes | Terror",O Último Mergulho
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Metade Negra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aotrwjI1FsG4j2PVhl9tfxnXiRq.jpg" group-title="Filmes | Terror",A Metade Negra
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/846513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Afro-Sambas: O Brasil de Baden e Vinícius" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wNwgrnFdzPUdEBSjhOw7QIcQzfR.jpg" group-title="Documentarios",Os Afro-Sambas: O Brasil de Baden e Vinícius
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/849241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desastre Total: Cruzeiro do Cocô" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vfFtFjilnMD2wHllClPzyBfictX.jpg" group-title="Documentarios",Desastre Total: Cruzeiro do Cocô
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/849242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luz, Anima, Ação" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1zgwv9FgKFrBPS7nCE5TdtrW79T.jpg" group-title="Documentarios",Luz, Anima, Ação
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/849243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Precious Life" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/qZVPMVdiTqiE6L47blUOrSID5Ut.jpg" group-title="Documentarios",Precious Life
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/849244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bellatrix" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1o6KWMf8dHYLK7WEHvxedKxpz6d.jpg" group-title="Documentarios",Bellatrix
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/849245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Torre Greenfell: A Verdade por Trás do Desastre" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dC8cD7EJTqGmUbwWOq3VKEAmLUU.jpg" group-title="Documentarios",Torre Greenfell: A Verdade por Trás do Desastre
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/849246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Confinado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vDpjYWzMTQg5lQ53hlck7NX9TJB.jpg" group-title="Filmes | Terror",Confinado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/849248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Macacos Assassinos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1sgKfP8faDICgLgKVZanNfIMznm.jpg" group-title="Filmes | Terror",Macacos Assassinos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/849249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Don't Look: A Morte te Aguarda" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3AlvJYQhQ62XRmUk9tMpzeUEBI3.jpg" group-title="Filmes | Terror",Don't Look: A Morte te Aguarda
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/849250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dia da Mentira" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/9tro1Trj7TNvlYRD9jLrXrEnYJ9.jpg" group-title="Filmes | Terror",Dia da Mentira
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/849251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Abra Jamais" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jjAi6q7ROlXoZEgITpyHAjyGIWX.jpg" group-title="Filmes | Terror",Não Abra Jamais
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/849252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="App da Morte" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fqxwPJrC1Ozr0nLJAQ31E8Eyrs7.jpg" group-title="Filmes | Terror",App da Morte
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/849253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1978" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/zn7oyy7KTlC01XD3pUn82V9Od0P.jpg" group-title="Filmes | Terror",1978
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/849254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Terror de Parentes" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7YdDBrddepnP7biAsd2X7JJKcuV.jpg" group-title="Filmes | Terror",Um Terror de Parentes
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/849255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman [L]" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg" group-title="Filmes | Legendados",Superman [L]
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/880017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Temporada de Caça" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bM7UHYwepyHzMm2mZNQlsOzHO7q.jpg" group-title="Filmes | Acao",Temporada de Caça
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Confissão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/r1mLAAqWCMaO3sclKfEh3IRbyfd.jpg" group-title="Filmes | Acao",A Confissão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sequestro 1971" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/9lrTeBZkgiaEBtCNysaR265PcIG.jpg" group-title="Filmes | Acao",Sequestro 1971
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão Resgate: Vingança" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sPTeizmI8p40oEuvbIc2B3H5mg6.jpg" group-title="Filmes | Acao",Missão Resgate: Vingança
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corra Que a Polícia Vem Aí!" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aGnR0XntfMrlrbnVyPL8XOKAkAQ.jpg" group-title="Filmes | Acao",Corra Que a Polícia Vem Aí!
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mariachi" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kPmLM0jXVKRwUUK69qzOEd9K8e2.jpg" group-title="Filmes | Acao",O Mariachi
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iceman 2: O Viajante do Tempo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/15YPjrQK1usLkdL8DZFXIfPiiVi.jpg" group-title="Filmes | Acao",Iceman 2: O Viajante do Tempo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velocidade Total" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wmh23jJy0nbVSPTrbLufLz1Eh9G.jpg" group-title="Filmes | Acao",Velocidade Total
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Linha de Fogo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iF7VAcrXKxps8iAhw4OPCv0hSsq.jpg" group-title="Filmes | Acao",Linha de Fogo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Highlander 2: A Ressurreição" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/xhlCp4P0X8YqeH7wsX0OpXycLaB.jpg" group-title="Filmes | Acao",Highlander 2: A Ressurreição
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contra o Tempo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/nMslq3j5MLF1KKClHj883Tw1GOX.jpg" group-title="Filmes | Acao",Contra o Tempo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shadow Force: Sentença de Morte" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lkDhrGnbSofuvIoE32C5Wi63kyt.jpg" group-title="Filmes | Acao",Shadow Force: Sentença de Morte
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thunderbolts*" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/eKD2p840nsRXLUR25ciVsNMJgOB.jpg" group-title="Filmes | Acao",Thunderbolts*
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2047: Visões da Morte" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gP2pdqtmZH5PYSP862FauVfXqE8.jpg" group-title="Filmes | Acao",2047: Visões da Morte
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Senhor do Crime" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3D3hthrMRYw3iNewlgSEjd4HMcH.jpg" group-title="Filmes | Acao",Senhor do Crime
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S.W.A.T.: Comando Especial 2" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/d5f8VRJGP7X2XV3x9zAxDMO60oG.jpg" group-title="Filmes | Acao",S.W.A.T.: Comando Especial 2
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Magnata" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/56U3PuBEaqLpdqUUGA6Iq7ME4Dz.jpg" group-title="Filmes | Acao",O Magnata
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos de Aço" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/x3RWZxRJRETAGzjgqXVAxZyuf3U.jpg" group-title="Filmes | Acao",Anjos de Aço
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="F1 - O Filme" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg" group-title="Filmes | Acao",F1 - O Filme
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ladrões de Ouro" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/9ii6tt7jwGiMiZS7qpWVrKKWwzk.jpg" group-title="Filmes | Acao",Ladrões de Ouro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão: Impossível - O Acerto Final" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yKQjrwgEkPOGel3JKT2neJzu0jh.jpg" group-title="Filmes | Acao",Missão: Impossível - O Acerto Final
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Parceiros do Crime" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/h6NwCLfzQodvD7BvK7Oo4XaU2VF.jpg" group-title="Filmes | Acao",Parceiros do Crime
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat: A Aniquilação" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rfrpLH39VskMfi9k0JXD36e0jJ5.jpg" group-title="Filmes | Acao",Mortal Kombat: A Aniquilação
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assalto à 13ª DP" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gd1ukLaudlhjY7dSSe9Dhnuvy1p.jpg" group-title="Filmes | Acao",Assalto à 13ª DP
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Gosto da Vingança" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wQgjUyuwi8IfFfo70uZTMNV067J.jpg" group-title="Filmes | Acao",O Gosto da Vingança
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Prova de Morte" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/spNMRChBZoRS9thsMEjYfM68icY.jpg" group-title="Filmes | Acao",À Prova de Morte
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família à Prova de Balas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/49zcfTFYPide0No0fDanlkoePFE.jpg" group-title="Filmes | Acao",Família à Prova de Balas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Missão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hY49cnr03m92iTiKstUCxeQFayP.jpg" group-title="Filmes | Acao",A Missão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Machete Mata" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4zyIttMBPUzwaD7CoBLxmNsPBF9.jpg" group-title="Filmes | Acao",Machete Mata
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desejo de Matar 2" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/357EWbyESrXogZb4OiPva3yTLmy.jpg" group-title="Filmes | Acao",Desejo de Matar 2
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente Z: Mistério no Zoo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rIjM81EYU6kPVIkkBMqv1RbdwV6.jpg" group-title="Filmes | Acao",Agente Z: Mistério no Zoo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Violação de Conduta" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lamkgtFVGtytaFhDQuWrI8tNnMn.jpg" group-title="Filmes | Acao",Violação de Conduta
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rampage: Destruição Total" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iAagLHxCLB7AiACwdniXEdwwNAV.jpg" group-title="Filmes | Acao",Rampage: Destruição Total
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contragolpe" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/A7vEMHwHkpoZmDNRcGYk4P2CWsB.jpg" group-title="Filmes | Acao",Contragolpe
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Duquesa Vingadora" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yOpm3V3Hde76UiW6Q4Q3OGpEdik.jpg" group-title="Filmes | Acao",A Duquesa Vingadora
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Treinar o Seu Dragão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vdvEClt3J8sFWxyMo0Jm7JpouEo.jpg" group-title="Filmes | Acao",Como Treinar o Seu Dragão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karatê Kid: Lendas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gnuSSOVBVWlKL8dFEGKRoOiiKTS.jpg" group-title="Filmes | Acao",Karatê Kid: Lendas
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Homem sem Passado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/cAD91IuCDvjJoWtePdRrc0I3BIl.jpg" group-title="Filmes | Acao",Um Homem sem Passado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Impiedoso" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/u7OmLo3OQp8fpG4uRHl1PZ8yPTh.jpg" group-title="Filmes | Acao",Impiedoso
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Despertar dos Deuses" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/uxVVyvT52kAxE3x6BFAnb3ZgNt.jpg" group-title="Filmes | Acao",O Despertar dos Deuses
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diablo: Caçada Mortal" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7F14PGXPEZCJ1Fj0wC1EtzVemkD.jpg" group-title="Filmes | Acao",Diablo: Caçada Mortal
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha de um Guerreiro" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kd0ZTb0jxklGQBhRt1eyE6tTVy6.jpg" group-title="Filmes | Acao",A Batalha de um Guerreiro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tracers: Nos Limites" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yGedOHE4uy4onbvTp8xsIVd41Hx.jpg" group-title="Filmes | Acao",Tracers: Nos Limites
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perseguição Radical" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gQXkJmlv9PhNLFK5HELT2MUW51k.jpg" group-title="Filmes | Acao",Perseguição Radical
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore: Missão Extrema" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hWhH3rD0rzh9L1S9FMeHZkiChU9.jpg" group-title="Filmes | Acao",Hardcore: Missão Extrema
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até o Fim" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sRprNtSwFQFWGR3k8hwuq86HyNJ.jpg" group-title="Filmes | Acao",Até o Fim
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inferno na montanha" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tmw47lSildm6BKRdzCyjibM8Tud.jpg" group-title="Filmes | Acao",Inferno na montanha
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last Kingdom: Seven Kings Must Die" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iWOYqidDzKrObSPOarcfWHNle3G.jpg" group-title="Filmes | Acao",The Last Kingdom: Seven Kings Must Die
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bailarina - Do Universo de John Wick" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/by5hjYJp3OJ8GW118kPeURp1rFo.jpg" group-title="Filmes | Acao",Bailarina - Do Universo de John Wick
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Old Guard 2" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg" group-title="Filmes | Acao",The Old Guard 2
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chefes de Estado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kSWYR3yqlbOIJdqRop970ce5mBS.jpg" group-title="Filmes | Acao",Chefes de Estado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Busca Explosiva" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ngRBNPSSeQ3aga7I51B2gN6jUaJ.jpg" group-title="Filmes | Acao",Busca Explosiva
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Billie Jean" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iK8IKYB6r4sJkh4JtI4yrgUxf9q.jpg" group-title="Filmes | Acao",A Lenda de Billie Jean
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers: O Filme" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2cwqXv7yGZH1csl8xshmaJurNZM.jpg" group-title="Filmes | Acao",Power Rangers: O Filme
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Enviado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/neL4KRw7xY5khUQTVxQ1BnvzUd7.jpg" group-title="Filmes | Acao",O Enviado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Benji - Um Cão Desafia a Selva" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tTqPFRq3zKaEdssojDEf5ghGJKI.jpg" group-title="Filmes | Acao",Benji - Um Cão Desafia a Selva
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Toca do Tigre" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/heqehuEfbg2283Z9hFmsVuv3UE3.jpg" group-title="Filmes | Acao",Na Toca do Tigre
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desafio Mortal" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iKYvaAj73SVuxDvhuDVqF9FUvVW.jpg" group-title="Filmes | Acao",Desafio Mortal
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terror na Antártida" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ka0WQYaf15yuibmd7nzeX7CpY0w.jpg" group-title="Filmes | Acao",Terror na Antártida
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oldboy: Dias de Vingança" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ztQx1u8Vif626VOqavJAqgLlKNQ.jpg" group-title="Filmes | Acao",Oldboy: Dias de Vingança
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação Panda" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pdX1SiCPw5qwKSUdX8AXU3B1QHZ.jpg" group-title="Filmes | Acao",Operação Panda
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elio" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2H8k54MWPQtsxWkQhR2HVfT34ty.jpg" group-title="Filmes | Animacao",Elio
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman: A Máscara do Fantasma" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/opeo3R9l1AgbiIgPqpp1rtPXBwb.jpg" group-title="Filmes | Animacao",Batman: A Máscara do Fantasma
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thomas & Seus Amigos: Corrida pela Taça Sodor" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/i4YZc8UuBbUlzuLl3A8y8E7q7R1.jpg" group-title="Filmes | Animacao",Thomas & Seus Amigos: Corrida pela Taça Sodor
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina: O Filme" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/56V3xa8ymXzOQLFGsiU9T1sDmfI.jpg" group-title="Filmes | Animacao",Patrulha Canina: O Filme
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiras do K-Pop" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gbdMa7woiuF7IiEB5Spwv5od4oo.jpg" group-title="Filmes | Animacao",Guerreiras do K-Pop
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure 02: O Início" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kI1NNv0bwXPddlKCHQnT1PxH3dD.jpg" group-title="Filmes | Animacao",Digimon Adventure 02: O Início
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smurfs" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/cUCvHtgwa0qtOmFqVlG6sWFc9sJ.jpg" group-title="Filmes | Animacao",Smurfs
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LEGO Disney Princesa: Vilões Unidos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/cCjk4yuvmuwW3LJ0OGkVsyps4L0.jpg" group-title="Filmes | Animacao",LEGO Disney Princesa: Vilões Unidos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie - O Poder das Sereias" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8qb8cLDBAWdahrtixN2mQdI6e52.jpg" group-title="Filmes | Animacao",Barbie - O Poder das Sereias
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie: Big City, Big Dreams" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jeggetf6lrd0dhtcbqJH75Sik4K.jpg" group-title="Filmes | Animacao",Barbie: Big City, Big Dreams
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zoolander: Super Modelo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pljm3ffVJYjMPCpfM5TzKnNI2tc.jpg" group-title="Filmes | Animacao",Zoolander: Super Modelo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Galinho Chicken Little" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fUCBkuNWpAIfH6yhuRzujy5Zjv0.jpg" group-title="Filmes | Animacao",O Galinho Chicken Little
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Turma do Bairro - Operação Z.E.R.O." tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fwgLVVHcDT2XtR3I9ozHN2CwC0v.jpg" group-title="Filmes | Animacao",A Turma do Bairro - Operação Z.E.R.O.
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ganha-Pão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/n97gnpuOEyYixtYBQPkzW194Si5.jpg" group-title="Filmes | Animacao",A Ganha-Pão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Snoopy Apresenta: Um Musical de Verão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/czkpKcxrnIqrtZdjM409n9r4JAQ.jpg" group-title="Filmes | Animacao",Snoopy Apresenta: Um Musical de Verão
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Looney Tunes - O Filme: O Dia Que a Terra Explodiu" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tNaUrIxvAVlJNF49r5pCH8Gtu6F.jpg" group-title="Filmes | Animacao",Looney Tunes - O Filme: O Dia Que a Terra Explodiu
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mononoke - O Filme: Capítulo 2 - As Cinzas da Ira" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lQn0t7qhf8NAB0f4Xrpq0j84THJ.jpg" group-title="Filmes | Animacao",Mononoke - O Filme: Capítulo 2 - As Cinzas da Ira
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Dia da Castração" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/f9NdxNjZ0M2jJamwd8yIiWsoSMK.jpg" group-title="Filmes | Animacao",O Dia da Castração
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece Gold: O Filme" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pHuiZmj4aaThV8akzsA5zMcTtox.jpg" group-title="Filmes | Animacao",One Piece Gold: O Filme
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Subsolo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/58TtWxoIK7sPp65Ys5MVidXKMYD.jpg" group-title="Filmes | Animacao",Subsolo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca do Vale Encantado VII: A Pedra do Fogo Gelado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/l1mk2AMDaoP5gbMOBxFvhYmvh5m.jpg" group-title="Filmes | Animacao",Em Busca do Vale Encantado VII: A Pedra do Fogo Gelado
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/884413.mp4
