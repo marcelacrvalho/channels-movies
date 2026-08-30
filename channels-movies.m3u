@@ -1,317 +1,357 @@
-http://45.162.64.114/ARTE1/index.m3u8
-
-http://45.190.28.50/AXN_HD/index.m3u8
-
-https://awtv.nuvemplay.live/hls/stream.m3u8
-
-https://media.cdntvms.com.br/band_sat/index.m3u8
-
-http://45.162.64.114/BAND_SPORTS/index.m3u8
-
-http://45.190.28.50/BOX_KIDS_HD/index.m3u8
-
-http://45.190.28.50/CHEF_TV/index.m3u8
-
-http://45.177.114.114/HISTORY/index.m3u8
-
-https://x1colegal.com/hls/stream.m3u8
-
-https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
-
-https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
-
-https://media.cdntvms.com.br/sbt_sat/index.m3u8
-
-http://45.162.64.114/SONY_MOVIES/index.m3u8
-
-https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8
-
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
-
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
-
-#EXTINF:-1 group-title="Variedades" tvg-id="" tvg-name="Fox Kids" tvg-logo="https://i.postimg.cc/WbMWR38h/fox-kids-network.jpg", Fox Kids
-#EXTGRP:Variedades
-https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o
-
-#EXTINF:-1 group-title="Variedades" tvg-id="PlayTV.br" tvg-name="Play TV" tvg-logo="https://i.imgur.com/Ikrj3lk.png", Play TV
-#EXTGRP:Variedades
-http://45.162.64.114/PLAY_TV/index.m3u8
-
-#EXTINF:-1 group-title="Variedades" tvg-id="" tvg-name="RBTI Movies" tvg-logo="https://i.postimg.cc/d137vf5s/rbti-movies.jpg", RBTI Movies
-#EXTGRP:Variedades
-https://tv.rbti.tv.br/rbti2/index.m3u8
-
-#EXTINF:-1 group-title="Variedades" tvg-id="SonyChannel.br" tvg-name="Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png", Sony Channel
-#EXTGRP:Variedades
-http://45.190.28.50/SONY_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="TRACE_BRAZUCA" tvg-name="Trace Brazuca" tvg-logo="https://media.umbraco.io/trace-backoffice/srvpyki2/01_2024_trace-_pt_tv-channels-logos-with-zone-inclusion_trace-brasil-brasil__1200x800_v1.png" group-title="Trace Network",Trace Brazuca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trace.plus/
-https://channels.trace.plus/Traceprod/BRAZIL/abr.m3u8
-
-#EXTINF:-1,ADULT SWIN HD²
-http://up.kiwi/351921603109/34939156/296629
-
-#EXTINF:-1,AMC HD²
-http://up.kiwi/351921603109/34939156/296432
-
-#EXTINF:-1,ANIMAL PLANET FHD H265
-http://up.kiwi/351921603109/34939156/28
-
-#EXTINF:-1,BBC WORLD NEWS HD²
-http://up.kiwi/351921603109/34939156/296337
-
-#EXTINF:-1,BIS FHD H265
-http://up.kiwi/351921603109/34939156/168
-
-#EXTINF:-1,BRTV MAX
-http://up.kiwi/351921603109/34939156/298431
-
-#EXTINF:-1,CARTOON NETWORK HD
-http://up.kiwi/351921603109/34939156/203
-
-#EXTINF:-1,CINEMAX FHD
-http://up.kiwi/351921603109/34939156/260
-
-#EXTINF:-1,CURTA! HD
-http://up.kiwi/351921603109/34939156/292
-
-#EXTINF:-1,DISCOVERY H&H FHD H265
-http://up.kiwi/351921603109/34939156/346
-
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://up.kiwi/351921603109/34939156/364
-
-#EXTINF:-1,DISCOVERY TURBO HD
-http://up.kiwi/351921603109/34939156/376
-
-#EXTINF:-1,DISCOVERY WORLD HD
-http://up.kiwi/351921603109/34939156/382
-
-#EXTINF:-1,E! HD²
-http://up.kiwi/351921603109/34939156/296155
-
-#EXTINF:-1,ESPN FHD H265
-http://up.kiwi/351921603109/34939156/504
-
-#EXTINF:-1,GLOBO MG HD
-http://up.kiwi/351921603109/34939156/296714
-
-#EXTINF:-1,GLOOB HD
-http://up.kiwi/351921603109/34939156/545
-
-#EXTINF:-1,HBO FHD H265
-http://up.kiwi/351921603109/34939156/576
-
-#EXTINF:-1,HBO FAMILY FHD
-http://up.kiwi/351921603109/34939156/296397
-
-#EXTINF:-1,HBO POP FHD
-http://up.kiwi/351921603109/34939156/296403
-
-#EXTINF:-1,HBO XTREME HD
-http://up.kiwi/351921603109/34939156/656
-
-#EXTINF:-1,HBO+ FHD
-http://up.kiwi/351921603109/34939156/296409
-
-#EXTINF:-1,MEGAPIX HD
-http://up.kiwi/351921603109/34939156/725
-
-#EXTINF:-1,MODO VIAGEM FHD²
-http://up.kiwi/351921603109/34939156/296128
-
-#EXTINF:-1,MTV HD
-http://up.kiwi/351921603109/34939156/739
-
-#EXTINF:-1,MULTISHOW FHD H265
-http://up.kiwi/351921603109/34939156/745
-
-#EXTINF:-1,PARAMOUNT CHANNEL HD
-http://up.kiwi/351921603109/34939156/829
-
-#EXTINF:-1,PREMIERE CLUBES UHD
-http://up.kiwi/351921603109/34939156/305246
-
-#EXTINF:-1,SPACE FHD H265
-http://up.kiwi/351921603109/34939156/1214
-
-#EXTINF:-1,TELECINE ACTION FHD H265
-http://up.kiwi/351921603109/34939156/1256
-
-#EXTINF:-1,TELECINE CULT FHD H265
-http://up.kiwi/351921603109/34939156/1262
-
-#EXTINF:-1,TELECINE FUN FHD H265
-http://up.kiwi/351921603109/34939156/1268
-
-#EXTINF:-1,TELECINE PIPOCA FHD H265
-http://up.kiwi/351921603109/34939156/1274
-
-#EXTINF:-1,TELECINE PREMIUM FHD H265
-http://up.kiwi/351921603109/34939156/1280
-
-#EXTINF:-1,TELECINE TOUCH FHD H265
-http://up.kiwi/351921603109/34939156/1286
-
-#EXTINF:-1,TLC FHD H265
-http://up.kiwi/351921603109/34939156/1297
-
-#EXTINF:-1,UNIVERSAL TV FHD²
-http://up.kiwi/351921603109/34939156/296459
-
-#EXTINF:-1,WARNER CHANNEL FHD H265
-http://up.kiwi/351921603109/34939156/1584
-
-#EXTINF:-1,24H | SIMPSONS
-http://up.kiwi/351921603109/34939156/1257452
-
-#EXTINF:-1,24H PEAKY BLINDERS
-http://up.kiwi/351921603109/34939156/1293324
-
-#EXTINF:-1,24H AMERICAN DAD
-http://up.kiwi/351921603109/34939156/1293327
-
-#EXTINF:-1,24H BOJACK HORSEMAN
-http://up.kiwi/351921603109/34939156/1293331
-
-#EXTINF:-1,24H RICK AND MORTY THE ANIME
-http://up.kiwi/351921603109/34939156/1293340
-
-#EXTINF:-1,24H SOUTH PARK
-http://up.kiwi/351921603109/34939156/1293341
-
-#EXTINF:-1,24H X-MEN
-http://up.kiwi/351921603109/34939156/1293342
-
-#EXTINF:-1,24H POKEMON
-http://up.kiwi/351921603109/34939156/1293386
-
-#EXTINF:-1,24H EU A PATROA E AS CRIANCAS
-http://up.kiwi/351921603109/34939156/1293420
-
-#EXTINF:-1,24H FRIENDS
-http://up.kiwi/351921603109/34939156/1293422
-
-#EXTINF:-1,24H THE OFFICE
-http://up.kiwi/351921603109/34939156/1293442
-
-#EXTINF:-1,24H MIRACULOUS
-http://up.kiwi/351921603109/34939156/1293492
-
-#EXTINF:-1,24H GAME OF THRONES
-http://up.kiwi/351921603109/34939156/1293525
-
-#EXTINF:-1,24H HOUSE OF THE DRAGON
-http://up.kiwi/351921603109/34939156/1293526
-
-#EXTINF:-1,24H PESADELO NA COZINHA
-http://up.kiwi/351921603109/34939156/1293584
-
-#EXTINF:-1,24H PESCA MORTAL
-http://up.kiwi/351921603109/34939156/1293585
-
-#EXTINF:-1,24H QUILOS MORTAIS
-http://up.kiwi/351921603109/34939156/1293586
-
-#EXTINF:-1,24H SHARK TANK BRASIL
-http://up.kiwi/351921603109/34939156/1293587
-
-#EXTINF:-1 tvg-id="" tvg-name="Estômago 2: O Poderoso Chef" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/21zKw6hhZaJxFyCDRHcS3E3BUzd.jpg" group-title="Filmes | Nacionais",Estômago 2: O Poderoso Chef
-http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/644210.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Amazônia Azul" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/utob42PLnj471qpnRI25zjpuP4T.jpg" group-title="Filmes | Lancamentos",Amazônia Azul
-http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/915075.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Devoradores de Estrelas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bOzG3SG6gBxHGGHYiq7xXeNb1bG.jpg" group-title="Filmes | Lancamentos",Devoradores de Estrelas
-http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/915076.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Paixão de Escritório" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kN86jEhf5xeHTPwlVeZ1ZAW861r.jpg" group-title="Filmes | Lancamentos",Paixão de Escritório
-
-#EXTINF:-1 tvg-id="" tvg-name="Dia D" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pmff1wjKrgJi92PPr346lAifzlg.jpg" group-title="Filmes | Lancamentos",Dia D
-http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/922235.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Backrooms: Um Não-Lugar" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/qEl4BDBTGnhLiadZx0c9nHM8vBF.jpg" group-title="Filmes | Lancamentos",Backrooms: Um Não-Lugar
-http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/922262.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Obsessão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yhtt7IdzjJ6Vwh1AcG54QFYPtwf.jpg" group-title="Filmes | Lancamentos",Obsessão
-http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/920918.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Retrato de uma Jovem em Chamas [L]" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/c3OkDxs7PQuLB12qiwZUDg7ZMO6.jpg" group-title="Filmes | Legendados",Retrato de uma Jovem em Chamas [L]
-http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/670634.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-name="A&E FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E FHD
+http://tjtor8411.com:80/010794/FXz1sY/71760.ts
+#EXTINF:-1 tvg-name="A&E FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71761.ts
+#EXTINF:-1 tvg-name="A&E HD" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E HD
+http://tjtor8411.com:80/010794/FXz1sY/71762.ts
+#EXTINF:-1 tvg-name="AMC FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC FHD
+http://tjtor8411.com:80/010794/FXz1sY/71768.ts
+#EXTINF:-1 tvg-name="AMC FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71769.ts
+#EXTINF:-1 timeshift="7" tvg-name="AMC HD" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC HD
+http://tjtor8411.com:80/010794/FXz1sY/71770.ts
+#EXTINF:-1 tvg-name="Animal Planet FHD" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet FHD
+http://tjtor8411.com:80/010794/FXz1sY/71772.ts
+#EXTINF:-1 tvg-name="Animal Planet FHD [H265]" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71773.ts
+#EXTINF:-1 timeshift="7" tvg-name="Animal Planet HD" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet HD
+http://tjtor8411.com:80/010794/FXz1sY/71775.ts
+#EXTINF:-1 tvg-name="Arte 1 FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 FHD
+http://tjtor8411.com:80/010794/FXz1sY/71777.ts
+#EXTINF:-1 tvg-name="Arte 1 FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71778.ts
+#EXTINF:-1 tvg-name="AXN FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN FHD
+http://tjtor8411.com:80/010794/FXz1sY/71781.ts
+#EXTINF:-1 tvg-name="AXN FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71782.ts
+#EXTINF:-1 tvg-name="AXN FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/axn.png" group-title="Canais | Legendados",AXN FHD [LEG]
+http://tjtor8411.com:80/010794/FXz1sY/90716.ts
+#EXTINF:-1 tvg-name="BIS HD" tvg-logo="http://tjtor8411.com/static/logos/canais/bis.png" group-title="Canais | Variedades",BIS HD
+http://tjtor8411.com:80/010794/FXz1sY/71808.ts
+#EXTINF:-1 tvg-name="BIS SD" tvg-logo="http://tjtor8411.com/static/logos/canais/bis.png" group-title="Canais | Variedades",BIS SD
+http://tjtor8411.com:80/010794/FXz1sY/71809.ts
+#EXTINF:-1 tvg-name="Canal Sony FHD" tvg-logo="http://tjtor8411.com/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="Canais | Filmes e Séries",Canal Sony FHD
+http://tjtor8411.com:80/010794/FXz1sY/71824.ts
+#EXTINF:-1 tvg-name="Canal Sony FHD [H265]" tvg-logo="http://tjtor8411.com/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="Canais | Filmes e Séries",Canal Sony FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71825.ts
+#EXTINF:-1 tvg-name="Canal Sony FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/sony.png" group-title="Canais | Legendados",Canal Sony FHD [LEG]
+http://tjtor8411.com:80/010794/FXz1sY/90713.ts
+#EXTINF:-1 timeshift="7" tvg-name="Canal Sony HD" tvg-logo="http://tjtor8411.com/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="Canais | Filmes e Séries",Canal Sony HD
+http://tjtor8411.com:80/010794/FXz1sY/71826.ts
+#EXTINF:-1 tvg-name="Canal Sony HD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/sony.png" group-title="Canais | Legendados",Canal Sony HD [LEG]
+http://tjtor8411.com:80/010794/FXz1sY/90712.ts
+#EXTINF:-1 tvg-name="Cartoon Network FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network FHD
+http://tjtor8411.com:80/010794/FXz1sY/71828.ts
+#EXTINF:-1 tvg-name="Cartoon Network FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71829.ts
+#EXTINF:-1 timeshift="7" tvg-name="Cartoon Network HD" tvg-logo="http://tjtor8411.com/static/logos/canais/cartoon.png" group-title="Canais | Infantis",Cartoon Network HD
+http://tjtor8411.com:80/010794/FXz1sY/71831.ts
+#EXTINF:-1 tvg-name="Cartoonito FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/boomerang.png" group-title="Canais | Infantis",Cartoonito FHD
+http://tjtor8411.com:80/010794/FXz1sY/71812.ts
+#EXTINF:-1 tvg-name="Cartoonito FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/boomerang.png" group-title="Canais | Infantis",Cartoonito FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71813.ts
+#EXTINF:-1 tvg-name="Cartoonito HD" tvg-logo="http://tjtor8411.com/static/logos/canais/boomerang.png" group-title="Canais | Infantis",Cartoonito HD
+http://tjtor8411.com:80/010794/FXz1sY/71814.ts
+#EXTINF:-1 tvg-name="Cinemax FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax FHD
+http://tjtor8411.com:80/010794/FXz1sY/71833.ts
+#EXTINF:-1 tvg-name="Cinemax FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71834.ts
+#EXTINF:-1 timeshift="7" tvg-name="Cinemax HD" tvg-logo="http://tjtor8411.com/static/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax HD
+http://tjtor8411.com:80/010794/FXz1sY/71835.ts
+#EXTINF:-1 tvg-name="Curta FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/curta.png" group-title="Canais | Documentários",Curta FHD
+http://tjtor8411.com:80/010794/FXz1sY/71855.ts
+#EXTINF:-1 tvg-name="Curta FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/curta.png" group-title="Canais | Documentários",Curta FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71856.ts
+#EXTINF:-1 tvg-name="Curta HD" tvg-logo="http://tjtor8411.com/static/logos/canais/curta.png" group-title="Canais | Documentários",Curta HD
+http://tjtor8411.com:80/010794/FXz1sY/71857.ts
+#EXTINF:-1 tvg-name="Discovery Channel FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD
+http://tjtor8411.com:80/010794/FXz1sY/71862.ts
+#EXTINF:-1 tvg-name="Discovery Channel FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71863.ts
+#EXTINF:-1 timeshift="7" tvg-name="Discovery Channel HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD
+http://tjtor8411.com:80/010794/FXz1sY/71865.ts
+#EXTINF:-1 tvg-name="Discovery H&H FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H FHD
+http://tjtor8411.com:80/010794/FXz1sY/71867.ts
+#EXTINF:-1 tvg-name="Discovery H&H FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71868.ts
+#EXTINF:-1 tvg-name="Discovery H&H HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery H&H HD
+http://tjtor8411.com:80/010794/FXz1sY/71869.ts
+#EXTINF:-1 tvg-name="Discovery Science FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD
+http://tjtor8411.com:80/010794/FXz1sY/71875.ts
+#EXTINF:-1 tvg-name="Discovery Science FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71876.ts
+#EXTINF:-1 timeshift="7" tvg-name="Discovery Science HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science HD
+http://tjtor8411.com:80/010794/FXz1sY/71877.ts
+#EXTINF:-1 tvg-name="Discovery Theater FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71880.ts
+#EXTINF:-1 timeshift="7" tvg-name="Discovery Theater HD" tvg-logo="http://tjtor8411.com/static/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater HD
+http://tjtor8411.com:80/010794/FXz1sY/71881.ts
+#EXTINF:-1 tvg-name="E! HD" tvg-logo="http://tjtor8411.com/static/logos/canais/e%21.png" group-title="Canais | Variedades",E! HD
+http://tjtor8411.com:80/010794/FXz1sY/71902.ts
+#EXTINF:-1 tvg-name="ESPN 2 FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD
+http://tjtor8411.com:80/010794/FXz1sY/71919.ts
+#EXTINF:-1 tvg-name="ESPN 2 FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71920.ts
+#EXTINF:-1 timeshift="7" tvg-name="ESPN 2 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 HD
+http://tjtor8411.com:80/010794/FXz1sY/71922.ts
+#EXTINF:-1 tvg-name="ESPN 3 FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 FHD
+http://tjtor8411.com:80/010794/FXz1sY/71907.ts
+#EXTINF:-1 tvg-name="ESPN 3 FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71908.ts
+#EXTINF:-1 timeshift="7" tvg-name="ESPN 3 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 HD
+http://tjtor8411.com:80/010794/FXz1sY/71909.ts
+#EXTINF:-1 tvg-name="ESPN FHD" tvg-logo="http://tjtor8411.com/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN FHD
+http://tjtor8411.com:80/010794/FXz1sY/71911.ts
+#EXTINF:-1 tvg-name="ESPN FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71912.ts
+#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="http://tjtor8411.com/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN HD
+http://tjtor8411.com:80/010794/FXz1sY/71913.ts
+#EXTINF:-1 tvg-name="Caze TV FHD" tvg-logo="" group-title="Canais | PPV",Caze TV FHD
+http://tjtor8411.com:80/010794/FXz1sY/76671.ts
+#EXTINF:-1 tvg-name="Eurochannel FHD" tvg-logo="http://tjtor8411.com/images/e319732e23a51cafb209d07c7a26c615.jpg" group-title="Canais | Notícias",Eurochannel FHD
+http://tjtor8411.com:80/010794/FXz1sY/104910.ts
+#EXTINF:-1 tvg-name="Eurochannel FHD [H265]" tvg-logo="http://tjtor8411.com/images/e319732e23a51cafb209d07c7a26c615.jpg" group-title="Canais | Notícias",Eurochannel FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/104913.ts
+#EXTINF:-1 tvg-name="FashionTV FHD" tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV FHD
+http://tjtor8411.com:80/010794/FXz1sY/71924.ts
+#EXTINF:-1 tvg-name="FashionTV FHD [H265]" tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/71925.ts
+#EXTINF:-1 tvg-name="Film&Arts FHD" tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts FHD
+http://tjtor8411.com:80/010794/FXz1sY/104914.ts
+#EXTINF:-1 tvg-name="Film&Arts FHD [H265]" tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/104920.ts
+#EXTINF:-1 tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo EPTV Sul de Minas FHD
+http://tjtor8411.com:80/010794/FXz1sY/71979.ts
+#EXTINF:-1 tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="http://tjtor8411.com/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo EPTV Sul de Minas HD
+http://tjtor8411.com:80/010794/FXz1sY/71980.ts
+#EXTINF:-1 tvg-name="Gloob FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob FHD
+http://tjtor8411.com:80/010794/FXz1sY/131153.ts
+#EXTINF:-1 tvg-name="Gloob FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72099.ts
+#EXTINF:-1 tvg-name="Gloob HD" tvg-logo="http://tjtor8411.com/static/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob HD
+http://tjtor8411.com:80/010794/FXz1sY/72100.ts
+#EXTINF:-1 tvg-name="Gloobinho FHD [H265]" tvg-logo="http://acstatic.co/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/90630.ts
+#EXTINF:-1 tvg-name="Gloobinho HD" tvg-logo="http://acstatic.co/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho HD
+http://tjtor8411.com:80/010794/FXz1sY/90629.ts
+#EXTINF:-1 tvg-name="HBO 2 FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD
+http://tjtor8411.com:80/010794/FXz1sY/72110.ts
+#EXTINF:-1 tvg-name="HBO 2 FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72111.ts
+#EXTINF:-1 tvg-name="HBO 2 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 HD
+http://tjtor8411.com:80/010794/FXz1sY/72112.ts
+#EXTINF:-1 tvg-name="HBO Family FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family FHD
+http://tjtor8411.com:80/010794/FXz1sY/72114.ts
+#EXTINF:-1 tvg-name="HBO Family FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72115.ts
+#EXTINF:-1 tvg-name="HBO Family HD" tvg-logo="http://tjtor8411.com/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family HD
+http://tjtor8411.com:80/010794/FXz1sY/72116.ts
+#EXTINF:-1 tvg-name="HBO FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO FHD
+http://tjtor8411.com:80/010794/FXz1sY/72118.ts
+#EXTINF:-1 tvg-name="HBO FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72119.ts
+#EXTINF:-1 tvg-name="HBO FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/hbo.png" group-title="Canais | Legendados",HBO FHD [LEG]
+http://tjtor8411.com:80/010794/FXz1sY/90698.ts
+#EXTINF:-1 timeshift="7" tvg-name="HBO HD" tvg-logo="http://tjtor8411.com/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO HD
+http://tjtor8411.com:80/010794/FXz1sY/72120.ts
+#EXTINF:-1 tvg-name="HBO Mundi FHD" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi FHD
+http://tjtor8411.com:80/010794/FXz1sY/72121.ts
+#EXTINF:-1 tvg-name="HBO Mundi FHD [H265]" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72122.ts
+#EXTINF:-1 tvg-name="HBO Mundi FHD [LEG]" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | Legendados",HBO Mundi FHD [LEG]
+http://tjtor8411.com:80/010794/FXz1sY/90695.ts
+#EXTINF:-1 tvg-name="HBO Plus FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus FHD
+http://tjtor8411.com:80/010794/FXz1sY/72125.ts
+#EXTINF:-1 tvg-name="HBO Plus FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72126.ts
+#EXTINF:-1 tvg-name="HBO Plus FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/hboplus.png" group-title="Canais | Legendados",HBO Plus FHD [LEG]
+http://tjtor8411.com:80/010794/FXz1sY/90692.ts
+#EXTINF:-1 timeshift="7" tvg-name="HBO Plus HD" tvg-logo="http://tjtor8411.com/static/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus HD
+http://tjtor8411.com:80/010794/FXz1sY/72127.ts
+#EXTINF:-1 tvg-name="HBO Pop FHD" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop FHD
+http://tjtor8411.com:80/010794/FXz1sY/72129.ts
+#EXTINF:-1 tvg-name="HBO Pop FHD [H265]" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72130.ts
+#EXTINF:-1 tvg-name="HBO Pop FHD [LEG]" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | Legendados",HBO Pop FHD [LEG]
+http://tjtor8411.com:80/010794/FXz1sY/90689.ts
+#EXTINF:-1 tvg-name="HBO Pop HD" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop HD
+http://tjtor8411.com:80/010794/FXz1sY/72131.ts
+#EXTINF:-1 tvg-name="HBO Signature FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD
+http://tjtor8411.com:80/010794/FXz1sY/72134.ts
+#EXTINF:-1 tvg-name="HBO Signature FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72135.ts
+#EXTINF:-1 tvg-name="HBO Signature FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/hbosignature.png" group-title="Canais | Legendados",HBO Signature FHD [LEG]
+http://tjtor8411.com:80/010794/FXz1sY/90686.ts
+#EXTINF:-1 tvg-name="HBO Signature HD" tvg-logo="http://tjtor8411.com/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature HD
+http://tjtor8411.com:80/010794/FXz1sY/72136.ts
+#EXTINF:-1 tvg-name="HBO Xtreme FHD" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme FHD
+http://tjtor8411.com:80/010794/FXz1sY/72138.ts
+#EXTINF:-1 tvg-name="HBO Xtreme FHD [H265]" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72139.ts
+#EXTINF:-1 tvg-name="HBO Xtreme FHD [LEG]" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Legendados",HBO Xtreme FHD [LEG]
+http://tjtor8411.com:80/010794/FXz1sY/90683.ts
+#EXTINF:-1 tvg-name="HBO Xtreme HD" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme HD
+http://tjtor8411.com:80/010794/FXz1sY/72140.ts
+#EXTINF:-1 tvg-name="History FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/history.png" group-title="Canais | Documentários",History FHD
+http://tjtor8411.com:80/010794/FXz1sY/72146.ts
+#EXTINF:-1 tvg-name="History FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/history.png" group-title="Canais | Documentários",History FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72147.ts
+#EXTINF:-1 tvg-name="ID FHD" tvg-logo="http://tjtor8411.com/images/ae050ba13a405e34c4192a0da5376574.png" group-title="Canais | Documentários",ID FHD
+http://tjtor8411.com:80/010794/FXz1sY/72150.ts
+#EXTINF:-1 tvg-name="ID FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/id.png" group-title="Canais | Documentários",ID FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72151.ts
+#EXTINF:-1 timeshift="7" tvg-name="ID HD" tvg-logo="http://tjtor8411.com/images/ae050ba13a405e34c4192a0da5376574.png" group-title="Canais | Documentários",ID HD
+http://tjtor8411.com:80/010794/FXz1sY/72152.ts
+#EXTINF:-1 tvg-name="Lifetime FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/lifetime.png" group-title="Canais | Variedades",Lifetime FHD
+http://tjtor8411.com:80/010794/FXz1sY/72154.ts
+#EXTINF:-1 tvg-name="Lifetime FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/lifetime.png" group-title="Canais | Variedades",Lifetime FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72155.ts
+#EXTINF:-1 tvg-name="Lifetime HD" tvg-logo="http://tjtor8411.com/static/logos/canais/lifetime.png" group-title="Canais | Variedades",Lifetime HD
+http://tjtor8411.com:80/010794/FXz1sY/72156.ts
+#EXTINF:-1 tvg-name="Megapix FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD
+http://tjtor8411.com:80/010794/FXz1sY/72166.ts
+#EXTINF:-1 tvg-name="Megapix FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72167.ts
+#EXTINF:-1 tvg-name="Megapix FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/megapix.png" group-title="Canais | Legendados",Megapix FHD [LEG]
+http://tjtor8411.com:80/010794/FXz1sY/90680.ts
+#EXTINF:-1 timeshift="7" tvg-name="Megapix HD" tvg-logo="http://tjtor8411.com/static/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
+http://tjtor8411.com:80/010794/FXz1sY/72169.ts
+#EXTINF:-1 tvg-name="Modo Viagem FHD" tvg-logo="http://tjtor8411.com/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="Canais | Variedades",Modo Viagem FHD
+http://tjtor8411.com:80/010794/FXz1sY/72162.ts
+#EXTINF:-1 tvg-name="Modo Viagem FHD [H265]" tvg-logo="http://tjtor8411.com/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="Canais | Variedades",Modo Viagem FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72163.ts
+#EXTINF:-1 tvg-name="Modo Viagem HD" tvg-logo="http://tjtor8411.com/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="Canais | Variedades",Modo Viagem HD
+http://tjtor8411.com:80/010794/FXz1sY/72164.ts
+#EXTINF:-1 tvg-name="Paramount Channel FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD
+http://tjtor8411.com:80/010794/FXz1sY/72217.ts
+#EXTINF:-1 tvg-name="Paramount Channel FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72218.ts
+#EXTINF:-1 timeshift="7" tvg-name="Paramount Channel HD" tvg-logo="http://tjtor8411.com/static/logos/canais/paramount.png" group-title="Canais | Filmes e Séries",Paramount Channel HD
+http://tjtor8411.com:80/010794/FXz1sY/72219.ts
+#EXTINF:-1 tvg-name="Telecine Action FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD
+http://tjtor8411.com:80/010794/FXz1sY/72346.ts
+#EXTINF:-1 tvg-name="Telecine Action FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72347.ts
+#EXTINF:-1 tvg-name="Telecine Action FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecineaction.png" group-title="Canais | Legendados",Telecine Action FHD [LEG]
+http://tjtor8411.com:80/010794/FXz1sY/90668.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Action HD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD
+http://tjtor8411.com:80/010794/FXz1sY/72348.ts
+#EXTINF:-1 tvg-name="Telecine Action HD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecineaction.png" group-title="Canais | Legendados",Telecine Action HD [LEG]
+http://tjtor8411.com:80/010794/FXz1sY/90667.ts
+#EXTINF:-1 tvg-name="Telecine Cult FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD
+http://tjtor8411.com:80/010794/FXz1sY/72350.ts
+#EXTINF:-1 tvg-name="Telecine Cult FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72351.ts
+#EXTINF:-1 tvg-name="Telecine Cult FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinecult.png" group-title="Canais | Legendados",Telecine Cult FHD [LEG]
+http://tjtor8411.com:80/010794/FXz1sY/90665.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Cult HD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD
+http://tjtor8411.com:80/010794/FXz1sY/72352.ts
+#EXTINF:-1 tvg-name="Telecine Fun FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD
+http://tjtor8411.com:80/010794/FXz1sY/72354.ts
+#EXTINF:-1 tvg-name="Telecine Fun FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72355.ts
+#EXTINF:-1 tvg-name="Telecine Fun FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinefun.png" group-title="Canais | Legendados",Telecine Fun FHD [LEG]
+http://tjtor8411.com:80/010794/FXz1sY/90662.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Fun HD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun HD
+http://tjtor8411.com:80/010794/FXz1sY/72356.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD
+http://tjtor8411.com:80/010794/FXz1sY/72358.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72359.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepipoca.png" group-title="Canais | Legendados",Telecine Pipoca FHD [LEG]
+http://tjtor8411.com:80/010794/FXz1sY/90659.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Pipoca HD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD
+http://tjtor8411.com:80/010794/FXz1sY/72360.ts
+#EXTINF:-1 tvg-name="Telecine Premium FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD
+http://tjtor8411.com:80/010794/FXz1sY/72362.ts
+#EXTINF:-1 tvg-name="Telecine Premium FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72363.ts
+#EXTINF:-1 tvg-name="Telecine Premium FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepremium.png" group-title="Canais | Legendados",Telecine Premium FHD [LEG]
+http://tjtor8411.com:80/010794/FXz1sY/90656.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Premium HD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD
+http://tjtor8411.com:80/010794/FXz1sY/72364.ts
+#EXTINF:-1 tvg-name="Telecine Premium HD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinepremium.png" group-title="Canais | Legendados",Telecine Premium HD [LEG]
+http://tjtor8411.com:80/010794/FXz1sY/90655.ts
+#EXTINF:-1 tvg-name="Telecine Touch FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD
+http://tjtor8411.com:80/010794/FXz1sY/72366.ts
+#EXTINF:-1 tvg-name="Telecine Touch FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72367.ts
+#EXTINF:-1 tvg-name="Telecine Touch FHD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinetouch.png" group-title="Canais | Legendados",Telecine Touch FHD [LEG]
+http://tjtor8411.com:80/010794/FXz1sY/90653.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Touch HD" tvg-logo="http://tjtor8411.com/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD
+http://tjtor8411.com:80/010794/FXz1sY/72368.ts
+#EXTINF:-1 tvg-name="TNT FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD
+http://tjtor8411.com:80/010794/FXz1sY/72375.ts
+#EXTINF:-1 tvg-name="TNT FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72376.ts
+#EXTINF:-1 tvg-name="Modo Viagem FHD" tvg-logo="http://tjtor8411.com/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="Canais | Variedades",Modo Viagem FHD
+http://tjtor8411.com:80/010794/FXz1sY/72162.ts
+#EXTINF:-1 tvg-name="Modo Viagem FHD [H265]" tvg-logo="http://tjtor8411.com/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="Canais | Variedades",Modo Viagem FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/72163.ts
+#EXTINF:-1 tvg-name="Modo Viagem HD" tvg-logo="http://tjtor8411.com/images/d93d8875965a86e8f2d5bcc153074e87.png" group-title="Canais | Variedades",Modo Viagem HD
+http://tjtor8411.com:80/010794/FXz1sY/72164.ts
+#EXTINF:-1 tvg-name="Multishow FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/multishow.png" group-title="Canais | Variedades",Multishow FHD
+http://tjtor8411.com:80/010794/FXz1sY/131193.ts
+#EXTINF:-1 tvg-name="Multishow FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/multishow.png" group-title="Canais | Variedades",Multishow FHD [H265]
+http://tjtor8411.com:80/010794/FXz1sY/131107.ts
+#EXTINF:-1 tvg-name="Multishow HD" tvg-logo="http://tjtor8411.com/static/logos/canais/multishow.png" group-title="Canais | Variedades",Multishow HD
+http://tjtor8411.com:80/010794/FXz1sY/72182.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Ratatouille" tvg-logo="http://gstaticontent.com/images/xKLM5b6WzfFM3kwDZ7AvOVtoGQN_big.jpg" group-title="Filmes | Animacao",Ratatouille
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rapunzel: Enrolados" tvg-logo="http://gstaticontent.com/images/bmbKwPL8nEE5ASZsGYonBsjY6bx_big.jpg" group-title="Filmes | Animacao",Rapunzel: Enrolados
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Procurando Nemo" tvg-logo="http://gstaticontent.com/images/7dHs0Pgv2C9s1M35LCZedP3a45O_big.jpg" group-title="Filmes | Animacao",Procurando Nemo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Procurando Dory" tvg-logo="http://gstaticontent.com/images/6fdea8200048b8980745d9285dfd803a.jpg" group-title="Filmes | Animacao",Procurando Dory
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Incriveis" tvg-logo="http://gstaticontent.com/images/ohxeKUSj1EX0zoFNP3gFfqLs3dE_big.jpg" group-title="Filmes | Animacao",Os Incriveis
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Divertida Mente" tvg-logo="http://gstaticontent.com/images/pk3RoPfLypeO6RsIIKwhZlGNXM4_big.jpg" group-title="Filmes | Animacao",Divertida Mente
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Nova onda do Imperador" tvg-logo="http://gstaticontent.com/images/w0jmnxNg522vYOyc1A1bCz10KbC_big.jpg" group-title="Filmes | Animacao",A Nova onda do Imperador
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noiva Cadaver" tvg-logo="http://gstaticontent.com/images/89B6W9mlTfSxeMEFMSyRBViXy83_big.jpg" group-title="Filmes | Animacao",A Noiva Cadaver
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Familia do Futuro" tvg-logo="http://gstaticontent.com/images/uR9rV69x4saB2vh9yfgQ5PA5E0r_big.jpg" group-title="Filmes | Animacao",A Familia do Futuro
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bailarina" tvg-logo="http://gstaticontent.com/images/xKPMlQ3v6KJD3u6ik3urzGesh5g_big.jpg" group-title="Filmes | Animacao",A Bailarina
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Maravilha 1984" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/AweDlIiohqw4sjC7gCsPVd1zo77.jpg" group-title="Filmes | Fantasia",Mulher-Maravilha 1984
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Origem (2010)" tvg-logo="http://gstaticontent.com/images/ms1bJvwa4BJycBakQ7afcedGlwY_big.jpg" group-title="Filmes | Fantasia",A Origem (2010)
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2019: O Ano da Extinção" tvg-logo="http://gstaticontent.com/images/9o6VLpFWRyYkjQVSWJY4hWBTzrs_big.jpg" group-title="Filmes | Fantasia",2019: O Ano da Extinção
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Hobbit: A Batalha dos Cinco Exércitos" tvg-logo="http://gstaticontent.com/images/q9eDVkrj2moWTZp8PZiPccjs5Vo_big.jpg" group-title="Filmes | Fantasia",O Hobbit: A Batalha dos Cinco Exércitos
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Hobbit: A Desolação de Smaug" tvg-logo="http://gstaticontent.com/images/beqHE5BZY5LczMxJezL4FdY7mBp_big.jpg" group-title="Filmes | Fantasia",O Hobbit: A Desolação de Smaug
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Hobbit: Uma Jornada Inesperada" tvg-logo="http://gstaticontent.com/images/asuSvb1MDN04HftUFxlp7i6ZHpV_big.jpg" group-title="Filmes | Fantasia",O Hobbit: Uma Jornada Inesperada
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: O Retorno do Rei" tvg-logo="http://gstaticontent.com/images/izPNMzffsgZUvlbiYlPxjFr3TAa_big.jpg" group-title="Filmes | Fantasia",O Senhor dos Anéis: O Retorno do Rei
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: As Duas Torres" tvg-logo="http://gstaticontent.com/images/3ipAMPu9AMKaOMWthjCRRmVHdSX_big.jpg" group-title="Filmes | Fantasia",O Senhor dos Anéis: As Duas Torres
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: A Sociedade do Anel" tvg-logo="http://gstaticontent.com/images/tlvsNCwWEIgwAM23aNzTmMIcPEZ_big.jpg" group-title="Filmes | Fantasia",O Senhor dos Anéis: A Sociedade do Anel
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Invenção de Hugo Cabret" tvg-logo="http://gstaticontent.com/images/uJaIMHO88X5BWWnnirejsHtgQvF_big.jpg" group-title="Filmes | Fantasia",A Invenção de Hugo Cabret
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 2" tvg-logo="http://gstaticontent.com/images/yD3VosOVW8WxPUzBDpEdzfv5pGx_big.jpg" group-title="Filmes | Fantasia",Harry Potter e as Relíquias da Morte - Parte 2
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e as Relíquias da Morte - Parte 1" tvg-logo="http://gstaticontent.com/images/67FVFOTaeBUQnimhCWpUkDawDct_big.jpg" group-title="Filmes | Fantasia",Harry Potter e as Relíquias da Morte - Parte 1
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Enigma do Príncipe" tvg-logo="http://gstaticontent.com/images/hTQQ5l9mxA3Rob8PTyvrNNGuj6y_big.jpg" group-title="Filmes | Fantasia",Harry Potter e o Enigma do Príncipe
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Ordem da Fênix" tvg-logo="http://gstaticontent.com/images/99562ed316e23576190ca801b2f5d691.jpg" group-title="Filmes | Fantasia",Harry Potter e a Ordem da Fênix
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Cálice de Fogo" tvg-logo="http://gstaticontent.com/images/5oWB3hjzyECRBAjgWkmZinxl9qA_big.jpg" group-title="Filmes | Fantasia",Harry Potter e o Cálice de Fogo
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e o Prisioneiro de Azkaban" tvg-logo="http://gstaticontent.com/images/1HdMUghqlgOIvbsU9ZtO40IPRzl_big.jpg" group-title="Filmes | Fantasia",Harry Potter e o Prisioneiro de Azkaban
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Câmara Secreta" tvg-logo="http://gstaticontent.com/images/811j0Jf2D0mK1U6RxXJoZgOB29n_big.jpg" group-title="Filmes | Fantasia",Harry Potter e a Câmara Secreta
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter e a Pedra Filosofal" tvg-logo="http://gstaticontent.com/images/qnw9610ojLT0jU3lMSZOAFttt1e_big.jpg" group-title="Filmes | Fantasia",Harry Potter e a Pedra Filosofal
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/646912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A 5a Onda" tvg-logo="http://gstaticontent.com/images/asPv5M6bUn270EcUXUnEnC8CkB7_big.jpg" group-title="Filmes | Fantasia",A 5a Onda
+http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/647058.mp4
